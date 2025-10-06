@@ -1,0 +1,7 @@
+.idea
+/lightning_logs/
+/model_offload_cache/
+/pretrained_lms/
+/tmp/
+./checkpoints*
+./mlruns/

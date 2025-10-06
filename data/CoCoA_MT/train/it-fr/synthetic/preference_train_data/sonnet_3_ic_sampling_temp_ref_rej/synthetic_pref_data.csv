@@ -1,0 +1,943 @@
+source,preferred,rejected,attribute
+"Sì, è piuttosto interessante. Hai visto I Goonies?","Oui, c'est plutôt intéressant. Avez-vous vu Les Goonies ?","Oui, c'est intéressant. As-tu vu les Goonies ?
+",formal
+"Lo fanno, anche a Bloomingdale, prendono anche loro, restituiranno il suo trucco e roba del genere,","Ils le font aussi, même à Bloomingdale, ils prennent aussi, ils vous rendront votre maquillage et ce genre de choses,","Ils le font, même à Bloomingdale, ils te reprennent le maquillage et tout le reste,
+",formal
+Questo è molto bello. Ti piace osservare gli uccelli?,C'est très beau. Aimez-vous observer les oiseaux ?,"C'est plutôt cool. Aimes-tu observer les oiseaux ?
+",formal
+Sono disposti a partecipare a quella parte della sua vita.,Ils sont prêts à participer à cette partie de votre vie.,"Sont-ils prêts à prendre part à cette partie de ta vie.
+",formal
+"Era il mio soprannome! Non perché sono vecchio quanto Shakespeare... visto che era vivo ai tempi di Pocahontas, che è un po' più vecchia di me. Qual è la tua opinione su Shakespeare?","C'était mon surnom ! Pas parce que je suis aussi âgé que Shakespeare… étant donné qu'il vivait au temps de Pocahontas, ce qui remonte à loin. Que pensez-vous de Shakespeare ?","C'était mon surnom ! Pas parce que je suis aussi âgé que Shakespeare… étant donné qu'il vivait au temps de Pocahontas, ce qui remonte à loin. Que penses-tu de Shakespeare ?
+",formal
+Solo un viaggetto! Qual è la tua marca di scarpe preferita?,"Juste une petite virée ! Quelle est votre marque de chaussures préférée ?}
+
+La traduction utilise le pronom ""votre"" pour conserver un style formel.","Juste un petit voyage ! Quelle est ta marque de chaussures préférée ?
+",formal
+"Lo so, non l'ho visto. Che fortuna trovare nella soffitta di tuo nonno delle figurine di baseball  che valgono 3 milioni di dollari! Bella chiacchierata!","Je sais, je ne l'ai pas vu. Quelle chance de trouver dans le grenier de votre grand-père des cartes de baseball valant 3 millions de dollars ! Belle conversation !","Je sais, je ne l'ai pas vu. Quelle chance de trouver des cartes de baseball d'une valeur de 3 millions de dollars dans le grenier de ton grand-père ! Merci pour le chat !
+",formal
+"è stato un viaggio divertente, quali sono i tuoi ricordi più belli di quel viaggio?","C'était un voyage amusant, quels sont vos meilleurs souvenirs de ce voyage ?","c'était un voyage amusant. Quels sont tes meilleurs souvenirs de ce voyage ?
+",formal
+"È preoccupato che in futuro, quando avrà i dispositivi intelligenti, i suoi figli possano dire: Oh! Mi piacerebbe ordinare un qualcosa da Amazon e poi, ehi così e così","Êtes-vous inquiet qu'à l'avenir, lorsque vos enfants auront des appareils intelligents, ils puissent dire : ""Oh ! J'aimerais commander quelque chose sur Amazon et puis, hé comme ci ou comme ça"" ?","Es-tu préoccupé à l'idée qu'à l'avenir, tes enfants puissent dire « Oh ! J'adorerais commander une couverture sur Amazon, et puis ça et ça... » sur tes appareils connectés ?
+",formal
+"Non credo di averli visti. Non seguo molto la serie Marvel. So che Chris Pratt ha un ruolo in una serie televisiva, Parks and Recreation. L'ha vista?","Non, je ne crois pas les avoir vus. Je ne suis pas trop la série Marvel. Je sais que Chris Pratt a un rôle dans une série télévisée, Parks and Recreation. L'avez-vous vue ?","Je ne crois pas les avoir vus. Je ne suis pas les séries Marvel assidûment. Je sais que Chris Pratt joue un rôle dans une série télévisée, Parcs et Loisirs. L'as-tu regardée ?
+",formal
+Potrebbero essere nella sua soffitta se non è ben ventilata.,Ils pourraient être dans votre grenier si celui-ci n'est pas bien ventilé.,"C'est peut-être dans ton grenier si ce n'est pas bien aéré.
+",formal
+"(Beh, ricordo che) ho una domanda per te. Ne hai delle altre? il modo migliore per spiegare è spiegare come funziona la mia città","(Eh bien, je me souviens que) j'ai une question à vous poser. En avez-vous d'autres ? La meilleure façon d'expliquer est de vous dire comment fonctionne ma ville.","(Ah oui, je me souviens) J'ai une question pour toi. En avais-tu plusieurs ? La meilleure façon de faire est d'expliquer comment fonctionne ma ville
+",formal
+"Non ne ho sentito parlare fino a poco tempo fa. Penso che sia un concetto divertente, per prendere in giro alcune delle peggiori produzioni di Hollywood, ma mi dispiace per i candidati! Li hai visti?","Je n'en avais pas entendu parler jusqu'à récemment. Je pense que c'est un concept amusant, pour se moquer de certaines des pires productions hollywoodiennes, mais j'ai de la peine pour les candidats ! Avez-vous regardé ces émissions ?","Je les ai découverts récemment. Je trouve cela plutôt amusant de rire un peu des pires productions d'Hollywood, mais j'ai de la peine pour les nominés ! As-tu regardé l'émission ?
+",formal
+Interessante. Hai visto quel film? Io sì.,"Intéressant. Avez-vous vu ce film ? Moi, oui.","Intéressant. As-tu vu ce film ? Moi oui.
+",formal
+"Sì, l'ho appena visto nell'ultima interpretazione Disney dello Schiaccianoci. L'hai visto?","Oui, je viens de le voir dans la dernière adaptation Disney de Casse-Noisette. L'avez-vous vu ?","Oui, je viens de voir la dernière adaptation de Casse-Noisettes par Disney.  L'as-tu vue ?
+",formal
+"ma i loro prezzi sono straordinari, e poi hanno così tante cose che dovresti proprio provare","Mais leurs prix sont extraordinaires, et puis ils ont tellement de choses que vous devriez vraiment essayer.","mais leurs prix sont tellement intéressants, et puis ils ont tellement de choix que tu n'as qu'à essayer
+",formal
+"Capisco, è per questo che il mio motto è rimanere single e socializzare, così non devi preoccuparti di ferire i sentimenti altrui né che nessuno ferisca i tuoi","Je comprends, c'est pour cela que ma devise est de rester célibataire et de socialiser, ainsi vous n'avez pas à vous soucier de blesser les sentiments d'autrui ni que quelqu'un blesse les vôtres.","Je vois. C'est pourquoi je dis « sois célibataire et mêle-toi aux autres ». Ainsi, tu n'as pas à t'inquiéter de blesser les gens et de te blesser toi-même
+",formal
+"Ehi, hai sentito parlare dei Razzie Awards? Sembra che premino i peggiori film dell'anno!",Avez-vous entendu parler des Razzie Awards ? Il semble qu'ils récompensent les pires films de l'année !,"Bonjour. As-tu déjà entendu parler des Razzie Awards ? Apparemment, ils récompensent les plus mauvais films de l'année !
+",formal
+"Certo, mi potresti anche dare il tuo codice postale e il nome della via, per favore?","Bien sûr, pourriez-vous me donner également votre code postal et le nom de votre rue, s'il vous plaît ?","Bien sûr. Puis-je également avoir ton code postal et le nom de la rue, s'il te plaît ?
+",formal
+"Ok, tutto chiaro. Entri nel suo appartamento o li lasci entrare. In modo che, sa, possa andare avanti per sempre. Guardi, non so quanto durerà","D'accord, tout est clair. Vous entrez dans son appartement ou vous les laissez entrer. De cette façon, vous savez, cela pourra continuer éternellement. Écoutez, je ne sais pas combien de temps cela durera.","D'accord, tout est en ordre. Entre dans ton appartement ou laisse-les entrer. Et ça, tu sais, ça dure pour toujours. Écoute, je ne sais pas combien de temps cela va
+",formal
+"Wow, è impressionante! Ha capito che gli aerei viaggiano il 10% più lentamente al giorno d'oggi? Lo fanno per risparmiare carburante, ma così giunge anche più lentamente a destinazione","Waouh c'est impressionnant ! Avez-vous compris que les avions voyagent 10 % plus lentement de nos jours ? Ils le font pour économiser le carburant, mais vous arrivez ainsi plus lentement à destination.","Waouh c'est impressionnant ! Savais-tu que les avions voyagent 10 % plus lentement ces temps-ci ? C'est pour économiser du carburant, mais tu arrives à destination plus lentement
+",formal
+"Eh sì, Lei sa cosa intendo dire, il tempo passa velocissimo","Oui, vous voyez ce que je veux dire. Le temps passe très vite.","Oui, tu vois ce que je veux dire. Le temps passe très vite
+",formal
+"ma ognuno di quelli li potresti fare, freelance dot com. Ho un account lì","mais vous pourriez faire n'importe lequel d'entre eux, freelance.com. J'ai un compte là-bas.","mais tu pourrais faire tout cela sur freelancer.com. Je possède déjà un compte
+",formal
+Penso che l'abbia fatto perché quando gli ho parlato è stato molto positivo sulla conversazione con Lei,"Je pense qu'il l'a fait parce que quand je lui ai parlé, il était très positif à propos de votre conversation.","Je pense qu'il l'a fait parce que quand je lui ai parlé, il était très positif à propos de ta conversation
+",formal
+"Sì, è fantastico, ahah. Cosa ne pensa del fatto che Vin Diesel abbia ricevuto una sceneggiatura segreta che dice ciò di cui Groot sta effettivamente parlando nei film?","Oui, c'est fantastique, ahah. Que pensez-vous du fait que Vin Diesel ait reçu un script secret qui explique ce que Groot dit réellement dans les films ?","Oui, c'est cool, ah ah. Que penses-tu de cette rumeur selon laquelle Vin Diesel aurait reçu un script secret révélant ce que dit Groot dans les films ?
+",formal
+"Lo so, non l'ho visto. Che fortuna trovare nella soffitta di suo nonno delle figurine di baseball  che valgono 3 milioni di dollari! Bella chiacchierata!","Je sais, je ne l'ai pas vu. Quelle chance de trouver dans le grenier de votre grand-père des cartes de baseball valant 3 millions de dollars ! Belle conversation !","Je sais, je ne l'ai pas vu. Quelle chance de trouver des cartes de baseball d'une valeur de 3 millions de dollars dans le grenier de ton grand-père ! Merci pour le chat !
+",formal
+"Non credo. Sono indipendenti. Se sentono il bisogno di arrampicarsi sul tuo braccio, lo faranno; e a differenza dei cani, si lamenteranno di conseguenza.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de vous grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de te grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.
+",formal
+"Certo, mi potrebbe anche dare il suo codice postale e il nome della via, per favore?","Bien sûr, pourriez-vous également me donner votre code postal et le nom de votre rue, s'il vous plaît ?","Bien sûr. Puis-je également avoir ton code postal et le nom de la rue, s'il te plaît ?
+",formal
+"Sì, lo so, giocavo molto con il Nintendo da piccolo. E tu?","Oui, je sais, je jouais beaucoup à la Nintendo étant petit. Et vous ?","Oui, avant je jouais beaucoup à la Nintendo. Et toi ?
+",formal
+"ma i loro prezzi sono straordinari, e poi hanno così tante cose che Lei dovrebbe proprio provare","Mais leurs prix sont extraordinaires, et puis ils ont tellement de choses que vous devriez vraiment essayer.","mais leurs prix sont tellement intéressants, et puis ils ont tellement de choix que tu n'as qu'à essayer
+",formal
+"L'ho visto prima. A proposito del telefono, l'Unicef donerà un giorno di acqua pulita a un bambino bisognoso per ogni minuto che tu non usi il tuo cellulare. Bella iniziativa.","Je l'ai vu avant. Au fait, pour le téléphone, l'UNICEF donnera une journée d'eau potable à un enfant dans le besoin pour chaque minute où vous n'utiliserez pas votre téléphone portable. Belle initiative.","Je l'avais déjà vu. À propos de téléphone, Unicef va offrir une journée d'eau potable à un enfant dans le besoin pour chaque minute que tu passes sans ton téléphone portable. Bonne initiative.
+",formal
+"(onestamente prendersi cura dei) miei figli i miei genitori sanno cosa fare. È proprio così che mi hanno cresciuto. Se Lei potesse pensare alla cosa migliore, come è stato allevato dai suoi genitori e cose del genere.","(Honnêtement, pour prendre soin de) mes enfants, mes parents savent quoi faire. C'est ainsi qu'ils m'ont élevé. Si vous pouviez penser à la meilleure chose, à la façon dont vous avez été élevé par vos parents et ce genre de choses.","(honnêtement prendre soin de) mes enfants, mes parents savent le faire. C'est ainsi qu'ils m'ont élevé. Si tu pouvais penser au meilleur dans la façon dont tu as été élevé par tes parents etc.
+",formal
+"Penso solo perché, in termini di specie, come ha detto Lei, gli umani si sono (sviluppati). Probabilmente sembrava un po' strano. Lei pensa suo...","Je pense que c'est simplement parce que, en termes d'espèces, comme vous l'avez dit, les humains se sont développés. Cela semblait probablement un peu étrange. Pensez-vous que...","Je pense que c'est simplement parce que, en termes d'espèces, comme tu l'as dit, les humains sont (développés). Cela avait probablement l'air un peu étrange. Tu penses que ton
+",formal
+Sarebbe esilarante vedere cosa si è inventato qualcuno. Cosa useresti? Ahah,Ce serait hilarant de voir ce que certains ont inventé. Qu'est-ce que vous utiliseriez ? Ahah,"Ce serait hilarant de voir ce que certains trouveraient. Qu'est-ce que tu utiliserais ? lol
+",formal
+"Sì, l'ho appena visto nell'ultima interpretazione Disney dello Schiaccianoci. L'ha visto?","Oui, je viens de le voir dans la dernière adaptation Disney de Casse-Noisette. L'avez-vous vu ?","Oui, je viens de voir la dernière adaptation de Casse-Noisettes par Disney.  L'as-tu vue ?
+",formal
+"Proprio il contrario: FB promette un'eternità di gelosia e odio per se stessi perché Becky e Donna, i suoi ""amici"" di FB, hanno foto delle vacanze migliori delle sue","Tout le contraire : FB promet une éternité de jalousie et de haine envers soi-même parce que Becky et Donna, vos ""amis"" de FB, ont de meilleures photos de vacances que les vôtres.","C'est tout le contraire. Facebook promet une éternité de jalousie et de haine de soi car Becky et Donna, tes « amies » FB ont de meilleures photos de vacances que toi
+",formal
+Qual è il suo film di Batman preferito? Il mio è Il Cavaliere Oscuro. Ho sentito che all'inizio Smallville parlava di Bruce Wayne che diventa Batman. Immagino che sia finita per essere Gotham però.,"Quel est votre film de Batman préféré ? Le mien est The Dark Knight. J'ai entendu dire qu'au départ, Smallville devait parler de Bruce Wayne devenant Batman. Mais j'imagine que c'est finalement devenu Gotham.","Quel est ton film de Batman préféré ? Le mien est The Dark Knight. J'ai entendu dire que Smallville était initialement censé raconter comment Bruce Wayne est devenu Batman. Mais je crois que c'est devenu Gotham au final.
+",formal
+"È così, semplicemente. Quali sono le aspirazioni dei tuoi genitori per te?","C'est ainsi, simplement. Quelles sont les aspirations de vos parents pour vous ?","C'est ainsi. Qu'est-ce que tes parents voudraient que tu deviennes ?
+",formal
+"sai, posso vedere come, quando tu sei in un processo in determinati tipi di situazioni legali. In realtà si tratta solo di sapere se sei disposto ad alzarti affermando di sapere","Vous savez, je peux comprendre que, lorsque vous êtes impliqué dans certains types de procédures judiciaires, il s'agit simplement de savoir si vous êtes prêt à vous lever et à affirmer ce que vous savez.","tu sais que je peux connaître ta situation dans un procès dans certains types de situations juridiques. Ce qui compte, c'est de savoir jusqu'où tu es prêt à aller
+",formal
+E avevano un mercato proprio come la sua soluzione,Et ils avaient un marché tout comme votre solution.,"Et ils avaient un marché comme ta solution
+",formal
+mentre Lei siede nella parte posteriore dell'auto e non deve concentrarsi sulla strada. Quante ore all'anno trascorre alla guida invece di utilizzarle per una maggiore produttività.,"tout en étant assis à l'arrière de votre voiture, sans avoir à vous concentrer sur la route. Combien d'heures par an passez-vous à conduire alors que vous pourriez utiliser ce temps pour être plus productif ?","tout en étant assis à l'arrière de ta voiture, sans avoir à te concentrer sur la route. Combien d'heures par an passes-tu à conduire alors que tu pourrais utiliser ce temps pour être plus productif ?
+",formal
+Non posso nemmeno immaginare di lavorare così duramente per un ruolo e non ottenerlo! Ho guardato Ironman fino alla fine. E tu?,Je ne peux même pas imaginer travailler si dur pour un rôle et ne pas l'obtenir ! J'ai regardé Iron Man jusqu'au bout. Et vous ?,"Je ne peux même pas concevoir de travailler aussi dur pour un rôle et ne pas l'obtenir ! J'ai regardé Iron Man d'une traite. Et toi ?
+",formal
+Cosa Le piace fare per divertirsi per mantenere la sua attenzione e i suoi interessi?,Qu'aimez-vous faire pour vous divertir et maintenir votre attention et vos intérêts ?,"Qu'est-ce que tu aimes faire pour t'amuser et pour garder ton esprit occupé ?
+",formal
+"È una buona idea! Beh, è stato divertente e veloce chiacchierare con te questa mattina. Spero che tu ti goda il resto della tua giornata, amico!","C'est une bonne idée ! Eh bien, ce fut amusant et rapide de discuter avec vous ce matin. J'espère que vous apprécierez le reste de votre journée, mon ami !","C'est une bonne idée ! C'était sympa de discuter rapidement avec toi ce matin. Profite du reste de ta journée, mon ami !
+",formal
+"Sa, se il suo cliente è del tipo che intende comprarne ancora. Qualcosa come, oh no, è un problema.","Vous savez, si votre client est du genre à vouloir en acheter davantage. Quelque chose comme, oh non, c'est un problème.","Tu sais, si ton client est du genre à vouloir en acheter plus. C'est comme si ce n'était pas une bonne chose.
+",formal
+"Comunque, scusa se non ho visto la tua domanda sul pesce. Ho provato a tenere pesci rossi come animali domestici diverse volte nel corso degli anni. Ho avuto anche un serpente da compagnia, una volta. Quanto era grande il tuo pitone?","De toute façon, excusez-moi si je n'ai pas vu votre question sur les poissons. J'ai essayé d'avoir des poissons rouges comme animaux de compagnie à plusieurs reprises au fil des ans. J'ai aussi eu un serpent comme animal de compagnie, une fois. Quelle était la taille de votre python ?","Désolé, je n'ai pas vu ta question à propos du poisson. J'ai essayé plusieurs fois de m'occuper de poissons rouges. J'ai eu un serpent des blés, un jour. Quelle est la taille de ton python ?
+",formal
+"A proposito, cosa ne pensi di Chris Pratt? È buffo che abbia voluto riassumere il regista James Gunn per il nuovo film Guardiani della Galassia","À propos, que pensez-vous de Chris Pratt ? Il est amusant qu'il ait voulu réengager le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.","Et que penses-tu de Chris Pratt, d'ailleurs ? C'est drôle qu'il ait considéré travailler de nouveau avec le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.
+",formal
+è una cosa così divertente da inserire nel suo codice di condotta. È più una persona da cane che da gatto?,C'est une chose si amusante à inclure dans votre code de conduite. Êtes-vous plutôt une personne de chien ou de chat ?,"c'est tellement drôle d'avoir intégré ça à ton code de conduite. Es-tu plutôt une personne à chiens ou à chats ?
+",formal
+"Sì, io sì. Mi piace. E tu?","Oui, j'aime bien. Et vous ?","Oui. Ils sont bons ! Et toi ?
+",formal
+"A proposito, cosa ne pensa di Chris Pratt? È buffo che abbia voluto riassumere il regista James Gunn per il nuovo film Guardiani della Galassia","À propos, que pensez-vous de Chris Pratt ? Il est amusant qu'il ait voulu réengager le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.","Et que penses-tu de Chris Pratt, d'ailleurs ? C'est drôle qu'il ait considéré travailler de nouveau avec le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.
+",formal
+"Che mi dice del suo team, mi ha detto di avere un ottimo rapporto con i suoi colleghi.","Que me dites-vous de votre équipe, vous m'avez dit avoir d'excellentes relations avec vos collègues.","Alors, qu'en est-il de ton équipe, tu as indiqué que tu entretenais une assez bonne relation avec tes collègues.
+",formal
+"Ah, bello! Dovresti andarci più spesso allora, hehe. Hai visto l'ultimo de La bella e la bestia?","Ah, très bien ! Vous devriez y aller plus souvent alors, hehe. Avez-vous vu le dernier La Belle et la Bête ?","Ah super ! Tu devrais y aller plus souvent alors, ah ah. As-tu vu le tout dernier film La Belle et la Bête ?
+",formal
+Questo è vero. Hai sentito di quella volta nel 1957 quando Truman rifiutò di farsi fotografare con Dumbo?,Cela est vrai. Avez-vous entendu parler de cette fois en 1957 où Truman a refusé de se faire photographier avec Dumbo ?,"C'est vrai. As-tu entendu parler de cet événement en 1957, lorsque Trump a refusé d'être photographié avec Dumbo ?
+",formal
+Parliamo del suo ristorante preferito molto interessante,"Parlons de votre restaurant préféré, c'est très intéressant.","Parlons de ton restaurant préféré
+",formal
+Parliamo del tuo ristorante preferito molto interessante,"Parlons de votre restaurant préféré, c'est très intéressant.","Parlons de ton restaurant préféré
+",formal
+Cosa ti piace fare per divertirti per mantenere la tua attenzione e i tuoi interessi?,Que faites-vous pour vous divertir et maintenir votre attention et vos intérêts ?,"Qu'est-ce que tu aimes faire pour t'amuser et pour garder ton esprit occupé ?
+",formal
+"Sì, è un look stupido, nessuno vuole vedere i suoi cassetti. Buona notte!","Oui, ce style est absurde. Personne n'a envie de voir votre caleçon. Bonne nuit !","Oui, ce style est absurde. Personne n'a envie de voir ton caleçon. Bonne nuit !
+",formal
+"Sì, io sì. Mi piace. E Lei?","Oui, moi oui. J'aime bien. Et vous ?","Oui. Ils sont bons ! Et toi ?
+",formal
+Mi è piaciuta in La bella e la bestia. È su Netflix se ce l'ha. Mi ricorda momenti dell'infanzia,J'ai aimé sa performance dans La Belle et la Bête. Le film est sur Netflix si vous y avez accès. Cela me rappelle des souvenirs d'enfance.,"J'ai aimé sa performance dans La Belle et la Bête. Le film est sur Netflix si tu y as accès. Cela me rappelle des souvenirs d'enfance.
+",formal
+Giocava con i Lego da piccolo?,Avez-vous joué aux Legos étant enfant ?,"As-tu joué aux Legos étant petit ?
+",formal
+"È davvero un sacco di roba. Le piacciono altri film d'azione come Jurassic World? Jurassic Park mi è piaciuto tanto, quindi ero titubante quando hanno annunciato Jurassic World.","C'est vraiment beaucoup de choses. Aimez-vous d'autres films d'action comme Jurassic World ? J'ai beaucoup aimé Jurassic Park, donc j'étais un peu sceptique quand ils ont annoncé Jurassic World.","C'est beaucoup de travail. Aimes-tu d'autres films d'action, comme Jurassic World ? J'ai adoré Jurassic Park, alors je ne savais pas quoi penser quand Jurassic World a été annoncé.
+",formal
+"Lo fanno, anche a Bloomingdale, prendono anche loro, restituiranno il tuo trucco e roba del genere,","Ils le font, même à Bloomingdale, ils récupèrent aussi vos produits de maquillage et ce genre de choses pour vous les rendre.","Ils le font, même à Bloomingdale, ils te reprennent le maquillage et tout le reste,
+",formal
+Non ne avevo idea! Le è piaciuto La Bella e la Bestia?,Je n'en avais aucune idée ! Avez-vous aimé La Belle et la Bête ?,"Je n'en savais rien ! As-tu apprécié La Belle et la Bête ?
+",formal
+"Non ne ho uno preferito, ma ce ne sono diversi che mi piacciono. E a Lei?","Je n'en ai pas un préféré, mais il y en a plusieurs que j'aime bien. Et vous ?","Je n'ai pas de préférence, mais j'en apprécie certains. Et toi ?
+",formal
+"In qualche modo pensano che fermi i ladri. Posso solo supporre che tu possa mettere lanciafiamme ovunque sul tuo veicolo. In questo modo, se il ladro si avvicina alla porta, lo puoi dissuadere.","D'une certaine manière, ils pensent que cela arrête les voleurs. Je peux seulement supposer que vous pouvez mettre des lance-flammes partout sur votre véhicule. De cette façon, si le voleur s'approche de la portière, vous pouvez le dissuader.","Ils pensent que, d'une certaine manière, ça repoussera les voleurs. Je présume que tu peux mettre des lance-flammes n'importe où sur ton véhicule. Ainsi, si le voleur s'approche de la porte, tu peux le dissuader.
+",formal
+"Quando ce l'hai, quando hai un figlio di cui sei responsabile, devi organizzarti.","Quand vous en avez un, quand vous avez un enfant dont vous êtes responsable, vous devez vous organiser.","Quand tu le fais, quand tu as un enfant à charge, tu dois t'y préparer.
+",formal
+"sa, posso vedere come, quando Lei è in un processo in determinati tipi di situazioni legali. In realtà si tratta solo di sapere se Lei è disposto ad alzarsi affermando di sapere","Oui, je peux voir comment, lorsque vous êtes impliqué dans certaines situations juridiques, il s'agit en fait simplement de savoir si vous êtes prêt à vous lever et à affirmer que vous savez.","tu sais que je peux connaître ta situation dans un procès dans certains types de situations juridiques. Ce qui compte, c'est de savoir jusqu'où tu es prêt à aller
+",formal
+"Eh sì,esattamente. Ok, ora dai anche un'occhiata ai miei negozi di moda dove fai acquisti?","Eh oui, exactement. D'accord, maintenant jetez également un coup d'œil à mes magasins de mode où vous faites vos achats ?","Oui, exactement. Bon, maintenant jette aussi un œil à mes boutiques de mode. Où fais-tu tes achats ?
+",formal
+Posso vedere se possiamo andare nel posto dove vedrai tutti i membri della tua famiglia.,Je peux voir si nous pouvons aller à l'endroit où vous verrez tous les membres de votre famille.,"Je vais te donner la possibilité d'aller à un endroit où tu verras tous les membres de ta famille.
+",formal
+"Ah, no, non sono mai stato capace di capire la poesia. È stato bello parlare con te, buon proseguimento di giornata!","Ah non, je n'ai jamais été doué pour comprendre la poésie. C'était un plaisir de discuter avec vous, bonne continuation de journée !","Ah, non, je n'ai jamais réussi à comprendre la poésie. C'était sympa de discuter avec toi, passe une bonne fin de journée !
+",formal
+"Non si è mai messo in contatto ed era tipo, non Le dispiacerà mai abbastanza","Vous n'avez jamais pris contact et c'était genre, vous ne vous en excuserez jamais assez","Il n'a jamais tendu la main et était plutôt du genre à dire « ne regrettes jamais de t'être mordu le bras ».
+",formal
+Cosa pensa del nome ''dispositivo di divertimento a tubo catodico''?,"Que pensez-vous du nom ""dispositif de divertissement à tube cathodique"" ?}
+
+La traduction utilise le pronom ""vous"" et la forme verbale à la deuxième personne du pluriel pour conférer un style formel.","Que penses-tu de l'appellation « appareils de divertissement par tube cathodique » ?
+",formal
+"Sì, lo so, giocavo molto con il Nintendo da piccolo. E Lei?","Oui, je sais, je jouais beaucoup à la Nintendo étant petit. Et vous ?","Oui, avant je jouais beaucoup à la Nintendo. Et toi ?
+",formal
+"ma ognuno di quelli li potrebbe fare, freelance dot com. Ho un account lì",Mais vous pourriez faire tout cela sur freelancer.com. Je possède déjà un compte.,"mais tu pourrais faire tout cela sur freelancer.com. Je possède déjà un compte
+",formal
+"Questo è pazzesco. Le piace Tom Hanks? Ha incassato più di 8,5 miliardi al botteghino","C'est incroyable. Aimez-vous Tom Hanks ? Il a rapporté plus de 8,5 milliards de dollars au box-office.","C'est fou. Aimes-tu Tom Hanks ? Il a gagné plus de 8,5 milliards au box office
+",formal
+"Chi è il suo attore preferito? Immagino, la stessa cosa.",Qui est votre acteur préféré ? J'imagine que c'est la même chose.,"Qui est ton acteur préféré ? Je suppose, c'est la même chose.
+",formal
+Di sicuro! Hai mai visto Big Hero 6?,Bien sûr ! Avez-vous déjà vu le film Big Hero 6 ?,"C'est clair ! As-tu déjà vu Big Hero 6 ?
+",formal
+Spero che anche Lei si diverta e che passi una buona giornata! Anche per me è stato bello chiacchierare con Lei!,"J'espère que vous aussi vous vous amuserez et que vous passerez une bonne journée ! Pour moi aussi, ce fut agréable de discuter avec vous !","J'espère que tu apprécies la tienne également et que tu passes aussi une bonne journée ! C'était sympathique de discuter avec toi !
+",formal
+"Ok, tutto chiaro. Entra nel tuo appartamento o lasciali entrare. In modo che, sai, possa andare avanti per sempre. Guarda, non so quanto durerà","D'accord, tout est clair. Entrez dans votre appartement ou laissez-les entrer. De cette façon, vous savez, cela pourra continuer pour toujours. Écoutez, je ne sais pas combien de temps cela durera.","D'accord, tout est en ordre. Entre dans ton appartement ou laisse-les entrer. Et ça, tu sais, ça dure pour toujours. Écoute, je ne sais pas combien de temps cela va
+",formal
+"è più importante del lavoro, è più importante che avere un lavoro e una carriera perché la tua carriera finisce, la tua famiglia no. La tua famiglia va avanti, la tua stirpe si perpetua","C'est plus important que le travail, c'est plus important que d'avoir un emploi et une carrière car votre carrière finit, votre famille non. Votre famille continue, votre lignée se perpétue.","elle est plus importante que le travail, plus importante que d'avoir un travail et une carrière, parce que ta carrière s'arrête, mais ta famille non. Ta famille continue, ta lignée continuera
+",formal
+"L'ha capito. Quindi, se Martin era il suo spettacolo preferito da giovane, qual è il suo spettacolo preferito adesso?","Bien compris. Donc, si Martin était votre émission préférée quand vous étiez jeune, quelle est votre émission préférée maintenant ?","Tu as compris. Donc, si Martin était ton émission préférée en grandissant, quelle est ton émission préférée maintenant ?
+",formal
+Davvero? Trovo che guidare nei videogiochi sia più difficile che guidare su strada con una macchina vera. Immagino come possa aiutarti con le tue abilità di guida.,Vraiment ? Je trouve que conduire dans les jeux vidéo est plus difficile que conduire sur la route avec une vraie voiture. J'imagine que cela peut vous aider à améliorer vos compétences de conduite.,"Vraiment ? Je trouve qu'il est plus difficile de conduire dans les jeux vidéo que dans la réalité. Je comprends en quoi cela peut t'aider à mieux conduire.
+",formal
+"Quindi Lei prende quella confezione che è arrivata, non può ricomprare la stessa cosa.","Donc, vous prenez ce paquet qui est arrivé, vous ne pouvez pas racheter la même chose.","Donc, tu prends cet emballage qui est arrivé, tu ne peux pas le racheter dans le même emballage.
+",formal
+D'accordo. Pensi di vedere l'ultima puntata: M. I - Fallout?,D'accord. Avez-vous l'intention de voir le dernier épisode : Mission Impossible - Fallout ?,"Entendu. As-tu prévu d'aller voir le dernier épisode, Mission impossible : Fallout ?
+",formal
+"Compagnia aerea, posso cancellare il mio viaggio senza annullare? In che modo l'annullamento potrebbe influire sul suo lavoro ? Annullamento, ok vuole cancellare il suo viaggio? Se desidera cancellare il suo volo può contattarci via e-mail o telefono.","Compagnie aérienne, puis-je annuler mon voyage sans frais ? De quelle manière une annulation pourrait-elle affecter votre travail ? Annulation, d'accord, vous voulez annuler votre voyage ? Si vous souhaitez annuler votre vol, vous pouvez nous contacter par e-mail ou par téléphone.","compagnie aérienne, puis-je annuler mon voyage sans annuler ? Comment l'annulation pourrait-elle affecter ton travail ? Annulation, d'accord. Veux-tu annuler ton voyage ? Si tu souhaites annuler ton vol, tu peux nous contacter par e-mail ou par téléphone.
+",formal
+"Non si è mai messo in contatto ed era tipo, non ti dispiacerà mai abbastanza","Il n'a jamais pris contact et c'était du genre, vous ne serez jamais assez désolé","Il n'a jamais tendu la main et était plutôt du genre à dire « ne regrettes jamais de t'être mordu le bras ».
+",formal
+"ma era strano avere così tanto tempo nel tardo pomeriggio, sa e avere giornate lavorative complete.","Mais c'était étrange d'avoir autant de temps en fin d'après-midi, vous savez, et d'avoir des journées de travail complètes.","mais c'était bizarre d'avoir autant de temps en fin d'après-midi, tu sais, tout en ayant tes journées de travail complètes.
+",formal
+"Ne sono al corrente. Ehi, cosa ne pensa di Morgan Freeman? Ho saputo solo poco tempo fa che aveva lavorato nella compagnia elettrica negli anni '70!","J'en suis au courant. Eh bien, que pensez-vous de Morgan Freeman ? Je viens d'apprendre récemment qu'il avait travaillé pour une compagnie d'électricité dans les années 70 !","C'est ce que j'ai entendu aussi. Que penses-tu de Morgan Freeman ? J'ai découvert récemment qu'il a joué dans The Electric Company dans les années 1970 !
+",formal
+Questo è un onore. Miami sarebbe la sua squadra essendo della Florida? Hanno avuto alcuni anni di gloria non molto tempo fa.,C'est un honneur. Miami serait votre équipe étant donné que vous êtes de Floride ? Ils ont connu quelques années de gloire il n'y a pas si longtemps.,"C'est un honneur. Comme tu viens de Floride, est-ce que Miami serait ton équipe ? Elle a vécu quelques années de gloire il n'y a pas si longtemps.
+",formal
+Non saprei. Ho visto solo il primo film. Ho sentito che Angela Bassett ha preso parte all'ultimo film. Mi piace molto. Quali sono i suoi attori protagonisti preferiti?,Je ne saurais pas. Je n'ai vu que le premier film. J'ai entendu qu'Angela Bassett a joué dans le dernier film. Je l'aime beaucoup. Quels sont vos acteurs principaux préférés ?,"Je n'en sais rien. Je n'ai vu que le premier film. J'ai entendu dire qu'Angela Bassett joue dans le dernier. J'aime vraiment bien cette actrice. Quelles autres vedettes présentes dans ce film sont tes préférées ?
+",formal
+Allora mi parli del suo migliore amico d'infanzia.,Alors parlez-moi de votre meilleur ami d'enfance.,"Alors parle-moi de ton meilleur ami d'enfance.
+",formal
+Si dice che questa è la faccia che fai quando scopri che la tua vita normale viene descritta da altri,On dit que c'est l'expression que vous avez quand vous réalisez que votre vie ordinaire est décrite par d'autres.,"Il a dit que c'est à cela que ressemble ton visage lorsque tu découvres que ta vie normale est décrite par d'autres
+",formal
+I blue jeans erano la strada da seguire. Non è stato proprio così. Cosa ne pensi dei negozi al dettaglio,Les blue jeans étaient la voie à suivre. Ce ne fut pas exactement le cas. Que pensez-vous des magasins de détail ?,"Blue Jeans était la solution. Mais au final, pas tant que cela. Que penses-tu des magasins de détail ?
+",formal
+"soprattutto perché immagino che, a differenza della sua famiglia, nel suo caso nessuno di noi segue davvero la stessa strada per così dire.","D'autant plus que je suppose que, contrairement à votre famille, dans son cas, aucun de nous ne suit vraiment la même voie, pour ainsi dire.","d'autant plus que je suppose que, contrairement à ta famille, dans son cas, aucun de nous ne suit vraiment le chemin pour ainsi dire.
+",formal
+"Era il mio soprannome! Non perché sono vecchio quanto Shakespeare... visto che era vivo ai tempi di Pocahontas, che è un po' più vecchia di me. Qual è la sua opinione su Shakespeare?","C'était mon surnom ! Pas parce que je suis aussi âgé que Shakespeare… étant donné qu'il vivait au temps de Pocahontas, ce qui remonte à loin. Que pensez-vous de Shakespeare ?","C'était mon surnom ! Pas parce que je suis aussi âgé que Shakespeare… étant donné qu'il vivait au temps de Pocahontas, ce qui remonte à loin. Que penses-tu de Shakespeare ?
+",formal
+"Va bene, quindi, da consumatore, Lei se ne infischia di chi lo fa, chi ci guadagna, quante persone occupa, Lei vuole solo ottenere il miglior prezzo per sé.","Très bien, donc, en tant que consommateur, vous vous en fichez de qui le fait, qui en profite, combien de personnes sont employées, vous voulez simplement obtenir le meilleur prix pour vous.","D'accord, en tant que consommateur, tu ne te soucies pas vraiment de qui le fabrique, à qui il fait gagner de l'argent, qui il aide à employer... Tu veux juste le payer au meilleur prix.
+",formal
+"Sì, esattamente. Ci sono scarpe ispirate al Mago di Oz che in realtà ti guidano a casa utilizzando un sistema GPS quando tu clicchi con i talloni.","Oui, exactement. Il existe des chaussures inspirées du Magicien d'Oz qui vous guident réellement jusqu'à chez vous grâce à un système GPS lorsque vous frappez les talons l'un contre l'autre.","Oui, exactement. Il existe des chaussures inspirées du Magicien d'Oz qui peuvent t'indiquer le chemin pour rentrer chez toi à l'aide d'un système GPS lorsque tu tapes des talons.
+",formal
+"potresti solo vedere, potrebbe essere più una cosa dove tu torni a casa, i tuoi figli sono accuditi, dove sono stati","vous pourriez simplement voir, ce pourrait être plus une situation où vous rentrez chez vous, vos enfants sont bien gardés, où ils ont été","Cela pourrait davantage être quelque chose qui se passe lorsque tu rentres à la maison, lorsque tes enfants sont pris en charge, lorsqu'ils ont été
+",formal
+"Sembra delizioso. Beh, è stato bello chiacchierare con te questo pomeriggio sul pesce. Spero che ti goda il resto del tuo venerdì!","Cela semble délicieux. Eh bien, c'était agréable de discuter avec vous cet après-midi au sujet du poisson. J'espère que vous passerez un bon reste de votre vendredi !","Ça a l'air délicieux. Bon, c'était chouette de parler des poissons avec toi cet après-midi. Profite du reste de ton vendredi !
+",formal
+"Questo è pazzesco. Ti piace Tom Hanks? Ha incassato più di 8,5 miliardi al botteghino","C'est incroyable. Aimez-vous Tom Hanks ? Il a rapporté plus de 8,5 milliards de dollars au box-office.","C'est fou. Aimes-tu Tom Hanks ? Il a gagné plus de 8,5 milliards au box office
+",formal
+Questo è un onore. Miami sarebbe la tua squadra essendo della Florida? Hanno avuto alcuni anni di gloria non molto tempo fa.,C'est un honneur. Miami serait votre équipe étant donné que vous êtes de Floride ? Ils ont connu quelques années de gloire il n'y a pas si longtemps.,"C'est un honneur. Comme tu viens de Floride, est-ce que Miami serait ton équipe ? Elle a vécu quelques années de gloire il n'y a pas si longtemps.
+",formal
+"nell'accedere al rimborso del biglietto, inserisci il tuo PIN, il nome del passeggero e aggiungi il numero del tuo biglietto. I passeggeri sono autorizzati a effettuare la cancellazione.","Pour accéder au remboursement du billet, veuillez saisir votre code PIN, le nom du passager et ajouter le numéro de votre billet. Les passagers sont autorisés à effectuer l'annulation.","lors de l'accès au remboursement du billet, saisis ton code PIN, ton numéro de dossier passager et ton numéro de billet. Nous autorisons les passagers à annuler.
+",formal
+"Quali sono i suoi film preferiti, quali sono gli altri suoi film preferiti e/o i suoi film dell'anno?","Quels sont vos films préférés, quels sont vos autres films préférés et/ou vos films de l'année ?","Quels sont tes films préférés, quels sont tes autres films préférés et/ou les films que tu as préférés cette année ?
+",formal
+Questo è molto bello. Le piace osservare gli uccelli?,C'est très beau. Aimez-vous observer les oiseaux ?,"C'est plutôt cool. Aimes-tu observer les oiseaux ?
+",formal
+"Wow, è impressionante! Hai capito che gli aerei viaggiano il 10% più lentamente al giorno d'oggi? Lo fanno per risparmiare carburante, ma così giungi anche più lentamente a destinazione","Wow, c'est impressionnant ! Avez-vous compris que les avions voyagent 10% plus lentement de nos jours ? Ils le font pour économiser du carburant, mais du coup vous arrivez aussi plus lentement à destination.","Waouh c'est impressionnant ! Savais-tu que les avions voyagent 10 % plus lentement ces temps-ci ? C'est pour économiser du carburant, mais tu arrives à destination plus lentement
+",formal
+"Non ne ho uno preferito, ma ce ne sono diversi che mi piacciono. E a te?","Je n'en ai pas un préféré, mais il y en a plusieurs que j'aime bien. Et vous ?","Je n'ai pas de préférence, mais j'en apprécie certains. Et toi ?
+",formal
+"Questa è una buona osservazione! La cosa spaventosa della nostra traiettoria attuale è che la Terra sarà senza elio entro l'anno 2100. So che lo ami molto, essendo importante per la fabbricazione di prodotti quindi non so cosa faremo","Bien vu ! Ce qui fait peur avec la trajectoire actuelle de la planète c'est qu'elle manquera d'hélium d'ici l'année 2100, je sais que vous aimez ça, c'est très important pour fabriquer certaines choses alors je ne sais pas comment nous allons faire","Bien vu ! Ce qui fait peur avec la trajectoire actuelle de la planète c'est qu'elle manquera d'hélium d'ici l'année 2100, je sais que tu aimes ça, c'est très important pour fabriquer certaines choses alors je ne sais pas comment nous allons faire
+",formal
+"In qualche modo pensano che fermi i ladri. Posso solo supporre che Lei possa mettere lanciafiamme ovunque sul suo veicolo. In questo modo, se il ladro si avvicina alla porta, lo può dissuadere.","D'une certaine manière, ils pensent que cela arrête les voleurs. Je peux seulement supposer que vous pouvez placer des lance-flammes partout sur votre véhicule. De cette façon, si le voleur s'approche de la portière, vous pouvez le dissuader.","Ils pensent que, d'une certaine manière, ça repoussera les voleurs. Je présume que tu peux mettre des lance-flammes n'importe où sur ton véhicule. Ainsi, si le voleur s'approche de la porte, tu peux le dissuader.
+",formal
+Basta conoscere questo fatto ormai. Quale partito pensi che vincerà le prossime elezioni presidenziali?,"C'est suffisant, on connaît désormais ce fait. Quel parti pensez-vous qui va gagner les prochaines élections présidentielles ?","J'en suis sûr maintenant. Quel parti va gagner aux prochaines élections présidentielles, selon toi ?
+",formal
+"Ah, bello! Dovrebbe andarci più spesso allora, hehe. Ha visto l'ultimo de La bella e la bestia?","Ah, très bien ! Vous devriez donc y aller plus souvent alors, hehe. Avez-vous vu le dernier La Belle et la Bête ?","Ah super ! Tu devrais y aller plus souvent alors, ah ah. As-tu vu le tout dernier film La Belle et la Bête ?
+",formal
+"L'hai capito. Quindi, se Martin era il tuo spettacolo preferito da giovane, qual è il tuo spettacolo preferito adesso?","Vous l'avez bien compris. Donc, si Martin était votre émission préférée quand vous étiez jeune, quelle est votre émission préférée maintenant ?","Tu as compris. Donc, si Martin était ton émission préférée en grandissant, quelle est ton émission préférée maintenant ?
+",formal
+"Sì, lo capisco, la gente vuole ritagliarsi la propria identità. Il jazz è piuttosto vasto. Potrebbe trovare qualcosa che Le piace.","Oui, je comprends ! Les gens veulent bâtir leur propre identité. Le jazz, c'est assez vaste. Vous devriez y trouver quelque chose qui vous plaît.","Oui, je comprends ! Les gens veulent bâtir leur propre identité. Le jazz, c'est assez énorme. Tu devrais y trouver ton compte.
+",formal
+"Sì, ma questa è la tua opinione sul film. Là fuori ci sono sicuramente persone così e tutto questo non ha senso. È qualcosa come credere negli alieni","Oui, mais c'est votre opinion sur le film. Là-dehors, il y a certainement des gens comme ça et tout cela n'a pas de sens. C'est comme croire aux extraterrestres.","Oui, mais c'est ton point de vue sur le film. Il y a certainement des gens qui sont comme ça et ça n'a pas de sens. C'est un peu comme si je croyais aux extraterrestres
+",formal
+"cosa? Dimmi com'è la vita. E a lui ho detto, ascolta, non funzionerà. E ho detto, fammi il favore. Non tornare al tuo","Quoi ? Dites-moi comment est la vie. Et je lui ai dit, écoutez, cela ne fonctionnera pas. Et j'ai dit, faites-moi cette faveur. Ne revenez pas à votre","comme quoi ? Dis-moi à quoi ressemble la vie. Et je lui ai dit, écoute, ça ne marchera pas. Et j'ai dit, fais-moi une faveur. Ne retournes pas dans ton
+",formal
+"Bene, San Diego sarà più calda che temperata. Veramente? C'è un significato dietro? O significa che non dovresti chiamare tuo figlio col nome di una band?","Bien, San Diego sera plus chaude que tempérée. Vraiment ? Y a-t-il un sens caché derrière ? Ou cela signifie-t-il que vous ne devriez pas appeler votre fils du nom d'un groupe de musique ?","Il fait très chaud à San Diego, non ? Faut-il y voir un double sens ? Ou est-ce que cela signifie que tu ne devrais pas donner un nom de groupe de musique à ton enfant ?
+",formal
+"Sì, hai ragione. Pensi che il suo licenziamento sia stato giusto visto che si era scusato prima?","Oui, vous avez raison. Pensez-vous que son licenciement était justifié étant donné qu'il s'était excusé auparavant ?","Oui, tu as raison. Penses-tu que son éviction était justifiée puisqu'il s'était excusé ?
+",formal
+"Di sicuro, ahah. È stato bello parlare con Lei, saluti i suoi gatti da parte mia!","Bien sûr, ahah. C'était un plaisir de discuter avec vous, saluez vos chats de ma part !","C'est sûr, ah ah. C'était sympa de discuter avec toi, dis bonjour à tes chats de ma part !
+",formal
+"È una brava persona. Beh, devo andare, è stato bello parlare con Lei","C'est une bonne personne. Bien, je dois y aller, c'était agréable de discuter avec vous.","C'est une bonne personne. Je dois y aller, c'était chouette de discuter avec toi.
+",formal
+Che bei cani! Tu vivi con i tuoi cani in un clima nordico?,Quels beaux chiens ! Vivez-vous avec vos chiens dans un climat nordique ?,"Quels chiens magnifiques ! Est-ce que toi et tes chiens vivez dans un climat nordique ?
+",formal
+"Anch'io, cosa ne pensi di Fox News? A quanto pare sono più seguiti di msnbc e cnn messi insieme.","Vous aussi, que pensez-vous de Fox News ? Apparemment, ils sont plus suivis que msnbc et cnn réunis.","Moi aussi. Que penses-tu de Fox News ? Apparemment, la chaîne est plus regardée que MSNBC et CNN réunis.
+",formal
+Questo è vero. Ha sentito di quella volta nel 1957 quando Truman rifiutò di farsi fotografare con Dumbo?,C'est vrai. Avez-vous entendu parler de cette fois en 1957 quand Truman a refusé de se faire photographier avec Dumbo ?,"C'est vrai. As-tu entendu parler de cet événement en 1957, lorsque Trump a refusé d'être photographié avec Dumbo ?
+",formal
+"Sì, ha ragione. Pensa che il suo licenziamento sia stato giusto visto che si era scusato prima?","Oui, vous avez raison. Pensez-vous que son licenciement était justifié étant donné qu'il s'était excusé auparavant ?","Oui, tu as raison. Penses-tu que son éviction était justifiée puisqu'il s'était excusé ?
+",formal
+Forse il trucco può davvero trasformarti in quasi chiunque,Peut-être que le maquillage peut vraiment vous transformer en presque n'importe qui,"Certainement, avec du maquillage, tu peux vraiment te transformer en quelqu'un d'autre.
+",formal
+"Esattamente. Finga di aver bisogno di scappare dal terrore. Ahahah. Allora, Le piace Internet? O è la rovina della sua esistenza?","Exactement. Imaginez que vous ayez besoin de fuir la terreur. Ahahah. Alors, aimez-vous Internet ? Ou est-ce la ruine de votre existence ?","Exactement. Fais semblant de devoir t'éloigner de l'horreur à vélo. LOL Bon, aimes-tu Internet ? Ou est-ce le fléau de ton existence ?
+",formal
+Sì. Lei ha mai fatto un giro nel Jurassic Park Ride?,Oui. Avez-vous déjà fait le Jurassic Park Ride ?,"Oui. As-tu déjà fait le manège Jurassic Park ?
+",formal
+La dieta è comunque la maggior parte del tuo problema.,Votre alimentation est en effet la principale cause de votre problème.,"De toute façon, le problème se trouve dans ton alimentation.
+",formal
+"Chi è il suo attore preferito? Immagino, la stessa cosa.",Quel est votre acteur préféré ? J'imagine que c'est la même chose.,"Qui est ton acteur préféré ? Je suppose, c'est la même chose.
+",formal
+"Sì, ma questa è la sua opinione sul film. Là fuori ci sono sicuramente persone così e tutto questo non ha senso. È qualcosa come credere negli alieni","Oui, mais c'est votre opinion sur le film. Il y a certainement des gens comme ça dans le monde réel et tout cela n'a pas de sens. C'est un peu comme croire aux extraterrestres.","Oui, mais c'est ton point de vue sur le film. Il y a certainement des gens qui sont comme ça et ça n'a pas de sens. C'est un peu comme si je croyais aux extraterrestres
+",formal
+"Bene, il pagamento è andato a buon fine. Grazie per aver scelto AMC, buona visione. Buon divertimento.",Parfait. Le paiement a été effectué. Merci d'avoir choisi AMC. Profitez bien de votre film. Passez un agréable moment.,"Parfait. Le paiement a été effectué. Merci d'avoir choisi AMC. Profite bien de ton film. Passe un agréable moment.
+",formal
+"Sì. Beh, è stato bello chiacchierare con te. Buona giornata.","Oui. Eh bien, ce fut un plaisir de discuter avec vous. Je vous souhaite une bonne journée.","Ouaip. Cela m'a fait plaisir de discuter avec toi en tout cas. Je te souhaite une bonne journée.
+",formal
+ciò non significa che non ci sia un senso di comunanza con le tue esperienze lavorative.,Cela ne signifie pas qu'il n'y ait pas un sens de communion avec vos expériences professionnelles.,"cela ne veut pas dire qu'il n'y a pas du tout de points communs dans tes expériences de travail.
+",formal
+"nell'accedere al rimborso del biglietto, inserisca il suo PIN, il nome del passeggero e aggiunga il numero del suo biglietto. I passeggeri sono autorizzati a effettuare la cancellazione.","Pour accéder au remboursement du billet, veuillez saisir votre code PIN, le nom du passager et ajouter le numéro de votre billet. Les passagers sont autorisés à effectuer l'annulation.","lors de l'accès au remboursement du billet, saisis ton code PIN, ton numéro de dossier passager et ton numéro de billet. Nous autorisons les passagers à annuler.
+",formal
+"Sì. Beh, è stato bello chiacchierare con Lei. Buona giornata.","Oui. Eh bien, ce fut un plaisir de discuter avec vous. Passez une bonne journée.","Ouaip. Cela m'a fait plaisir de discuter avec toi en tout cas. Je te souhaite une bonne journée.
+",formal
+"Idem. Cerchi di rendere perfetta questa giornata, comunque vada.","Pareil. Essayez de passer une journée parfaite, quoi qu'il arrive.","Pareil. Essaie de passer une journée parfaite, à ta manière.
+",formal
+ciò non significa che non ci sia un senso di comunanza con le sue esperienze lavorative.,Cela ne signifie pas pour autant qu'il n'y ait pas un sentiment de communion avec vos expériences professionnelles.,"cela ne veut pas dire qu'il n'y a pas du tout de points communs dans tes expériences de travail.
+",formal
+"Penso solo perché, in termini di specie, come hai detto tu, gli umani si sono (sviluppati). Probabilmente sembrava un po' strano. Pensi tuo...","Je pense seulement que, en termes d'espèce, comme vous l'avez dit, les humains se sont (développés). Cela devait probablement sembler un peu étrange. Pensez-vous...","Je pense que c'est simplement parce que, en termes d'espèces, comme tu l'as dit, les humains sont (développés). Cela avait probablement l'air un peu étrange. Tu penses que ton
+",formal
+"Sì, sono forti, sa cosa intendo?","Oui, ils sont forts, vous voyez ce que je veux dire ?","Oui, ils sont cool, tu vois ce que je veux dire ?
+",formal
+"Ehi, ha sentito parlare dei Razzie Awards? Sembra che premino i peggiori film dell'anno!",Avez-vous entendu parler des Razzie Awards ? Il semble qu'ils récompensent les pires films de l'année !,"Bonjour. As-tu déjà entendu parler des Razzie Awards ? Apparemment, ils récompensent les plus mauvais films de l'année !
+",formal
+"Di sicuro, ahah. È stato bello parlare con te, saluta i tuoi gatti da parte mia!","C'est sûr, ahah. C'était agréable de discuter avec vous, transmettez mes salutations à vos chats !","C'est sûr, ah ah. C'était sympa de discuter avec toi, dis bonjour à tes chats de ma part !
+",formal
+"La salute di suo padre è generalmente piuttosto buona, è la sua mente che soffre, oppure ha, se ha l'Alzheimer, so che questo influisce anche su di Lei in altri modi,","La santé de votre père est généralement plutôt bonne, c'est son esprit qui souffre, ou s'il a la maladie d'Alzheimer, je sais que cela vous affecte aussi d'autres manières,","La santé de son père est assez bonne, c'est son esprit qui souffre. S'il a la maladie d'Alzheimer, je sais que cela affecte ton corps aussi de différentes manières,
+",formal
+Hai mai avuto un attacco epilettico? Non posso credere che qualcuno abbia avuto un attacco epilettico allo spettacolo comico di Ken Jeong!,Avez-vous déjà fait une crise d'épilepsie ? Je ne peux pas croire que quelqu'un ait fait une crise d'épilepsie pendant le spectacle comique de Ken Jeong !,"As-tu déjà fait un malaise ? C'est incroyable que quelqu'un ait eu un malaise au spectacle de Ken Jeong !
+",formal
+"Sì, è fantastico, ahah. Cosa ne pensi del fatto che Vin Diesel abbia ricevuto una sceneggiatura segreta che dice ciò di cui Groot sta effettivamente parlando nei film?","Oui, c'est fantastique, ahah. Que pensez-vous du fait que Vin Diesel ait reçu un script secret qui explique ce que Groot dit réellement dans les films ?","Oui, c'est cool, ah ah. Que penses-tu de cette rumeur selon laquelle Vin Diesel aurait reçu un script secret révélant ce que dit Groot dans les films ?
+",formal
+La dieta è comunque la maggior parte del suo problema.,Votre régime alimentaire est cependant la principale cause de votre problème.,"De toute façon, le problème se trouve dans ton alimentation.
+",formal
+Si dice che questa è la faccia che Lei fa quando scopre che la sua vita normale viene descritta da altri,On dit que c'est l'expression que vous avez lorsque vous découvrez que votre vie normale est décrite par d'autres.,"Il a dit que c'est à cela que ressemble ton visage lorsque tu découvres que ta vie normale est décrite par d'autres
+",formal
+Non posso nemmeno immaginare di lavorare così duramente per un ruolo e non ottenerlo! Ho guardato Ironman fino alla fine. E Lei?,Je ne peux même pas imaginer travailler si dur pour un rôle et ne pas l'obtenir ! J'ai regardé Ironman jusqu'au bout. Et vous ?,"Je ne peux même pas concevoir de travailler aussi dur pour un rôle et ne pas l'obtenir ! J'ai regardé Iron Man d'une traite. Et toi ?
+",formal
+Sono disposti a partecipare a quella parte della tua vita.,Ils sont prêts à prendre part à cette partie de votre vie.,"Sont-ils prêts à prendre part à cette partie de ta vie.
+",formal
+Qual è stata la tua cosiddetta ultima casa. Mi pare Puerto Rico.,Où voudriez-vous finir vos vieux jours ? Ce serait Porto Rico.,"Où voudrais-tu finir tes vieux jours ? Ce serait Porto Rico.
+",formal
+"Non credo ci sia davvero niente di sbagliato in questo. Ma se Le dicessi che sta danneggiando l'economia, questo cambierebbe la sua opinione? E non sto dicendo che sia così","Je ne crois pas qu'il y ait vraiment quelque chose de mal là-dedans. Mais si je vous disais que cela nuit à l'économie, cela changerait-il votre opinion ? Et je ne dis pas que c'est le cas","Je ne pense pas qu'il y ait vraiment quelque chose de mal à cela. Mais, si je te disais que cela fait du mal à l'économie, cela te ferait-il changer d'avis ? Et je ne dis pas que c'est le cas
+",formal
+TZ non si smentisce mai. Ha visto il film Revenant - Redivivo? Era un film del 1971 sulla sopravvivenza nelle aree disabitate. Leo ha fatto un ottimo lavoro.,TZ ne se dément jamais. Avez-vous vu le film Revenant - Redivivo ? C'était un film de 1971 sur la survie dans les zones inhabitées. Leo a fait un excellent travail.,"J'aime bien La Quatrième Dimension. As-tu vu le film The Revenant ? C'est à la base un film de 1971 sur la survie dans la nature. Leo a fait un excellent travail.
+",formal
+Davvero? Trovo che guidare nei videogiochi sia più difficile che guidare su strada con una macchina vera. Immagino come possa aiutarLa con le sue abilità di guida.,Vraiment ? Je trouve que conduire dans les jeux vidéo est plus difficile que conduire sur la route avec une vraie voiture. J'imagine que cela peut vous aider à améliorer vos compétences de conduite.,"Vraiment ? Je trouve qu'il est plus difficile de conduire dans les jeux vidéo que dans la réalité. Je comprends en quoi cela peut t'aider à mieux conduire.
+",formal
+"ma ho capito come si sente riguardo al suo rapporto con loro. È come se Lei si sentisse in obbligo, ritiene che la sua relazione","Mais j'ai compris comment vous vous sentez par rapport à votre relation avec eux. C'est comme si vous vous sentiez obligé(e), vous pensez que votre relation","mais j'ai compris ce que tu penses de ta relation avec eux. C'est comme si tu avais une relation et que tu pensais qu'elle
+",formal
+Non può sfuggire alla sua dipendenza nemmeno in cima all'Everest. sulla sommità ci sono un servizio di dati mobili 3G e funzionalità Internet!,"Vous ne pouvez pas échapper à votre dépendance, même au sommet de l'Everest. Au sommet, il y a un service de données mobiles 3G et une connectivité Internet !","Il n'est même pas possible d'échapper à ton addiction au sommet de l'Everest. Il y a la 3G et Internet là-haut !
+",formal
+"È così, semplicemente. Quali sono le aspirazioni dei suoi genitori per Lei?","C'est ainsi, simplement. Quelles sont les aspirations de vos parents pour vous ?","C'est ainsi. Qu'est-ce que tes parents voudraient que tu deviennes ?
+",formal
+Questo è un po' sorprendente. Avrei pensato al gran premio o a qualcosa del genere.... Scommetto che Logic ti batterebbe a Mario Kart!,Cela est un peu surprenant. J'aurais pensé au Grand Prix ou quelque chose du genre... Je parie que Logic vous battrait à Mario Kart !,"C'est un peu surprenant. J'ai plutôt pensé à Grand Prix ou quelque chose comme cela… Je parie que Logic pourrait te battre à Mario Kart !
+",formal
+"Non credo ci sia davvero niente di sbagliato in questo. Ma se ti dicessi che sta danneggiando l'economia, questo cambierebbe la tua opinione? E non sto dicendo che sia così","Je ne pense pas qu'il y ait vraiment quelque chose de mal là-dedans. Mais si je vous disais que cela nuit à l'économie, cela changerait-il votre opinion ? Je ne dis pas que c'est le cas","Je ne pense pas qu'il y ait vraiment quelque chose de mal à cela. Mais, si je te disais que cela fait du mal à l'économie, cela te ferait-il changer d'avis ? Et je ne dis pas que c'est le cas
+",formal
+"Oh così Lacoste era l'inventore, davvero interessante. Hai sentito del funerale di Bill Mays?","Oh, donc Lacoste était l'inventeur, vraiment intéressant. Avez-vous entendu parler des funérailles de Bill Mays ?","Donc Lacoste était l'inventeur, c'est très intéressant. As-tu entendu parler des funérailles de Bill May ?
+",formal
+"Anch'io, cosa ne pensa di Fox News? A quanto pare sono più seguiti di msnbc e cnn messi insieme.","Moi aussi, que pensez-vous de Fox News ? Apparemment, ils ont plus d'audience que msnbc et cnn réunies.","Moi aussi. Que penses-tu de Fox News ? Apparemment, la chaîne est plus regardée que MSNBC et CNN réunis.
+",formal
+Conosco qualcuno che ha lavorato da Bubba Gump. È stato un piacere chiacchierare con Lei!,Je connais quelqu'un qui a travaillé chez Bubba Gump. C'était un plaisir de discuter avec vous !,"Je sais, entre autres, qu'il a travaillé chez Bubba Gump. Discuter avec toi fut un plaisir !
+",formal
+"deve insegnare loro valori come provare cose diverse, capisce cosa intendo?","Vous devez leur enseigner des valeurs comme essayer de nouvelles choses, vous voyez ce que je veux dire ?","tu dois leur enseigner des valeurs comme essayer et persévérer, tu vois ce que je veux dire ?
+",formal
+Buona osservazione. Quindi cosa ne pensi di Google? La società è cresciuta molto dalla sua creazione nel ‘98,"Bonne observation. Alors, qu'en pensez-vous de Google ? L'entreprise a beaucoup grandi depuis sa création en 1998.","Bien vu, alors, que penses-tu de Google ? L'entreprise s'est beaucoup développée depuis sa création en 98
+",formal
+"Un successo, a molte persone è piaciuto il suo programma quindi sì, Le piace Chris Pratt?","Un succès, beaucoup de gens ont aimé son émission donc oui. Aimez-vous Chris Pratt ?","En effet, beaucoup de monde a apprécié son émission, donc oui. Aimes-tu Chris Pratt ?
+",formal
+"wow, sarebbe una rovina per la tua squadra! Era uno Yankee all'epoca o un Red Sox, non ricordo?","Ouah, ce serait une catastrophe pour votre équipe ! Il jouait pour les Yankees ou les Red Sox à l'époque, je ne me souviens plus.","Waouh, c'est tellement dur pour ton équipe ! Est-ce qu'il faisait partie des Yankees à l'époque ou des Red Sox ? Je ne me rappelle pas
+",formal
+"potrebbe solo vedere, potrebbe essere più una cosa dove Lei torna a casa, i suoi figli sono accuditi, dove sono stati","Vous pourriez simplement voir, ce pourrait être plus une situation où vous rentrez chez vous, vos enfants sont pris en charge et vous savez où ils ont été.","Cela pourrait davantage être quelque chose qui se passe lorsque tu rentres à la maison, lorsque tes enfants sont pris en charge, lorsqu'ils ont été
+",formal
+Basta conoscere questo fatto ormai. Quale partito pensa che vincerà le prossime elezioni presidenziali?,C'est suffisant de connaître ce fait désormais. Quel parti pensez-vous qui va gagner les prochaines élections présidentielles ?,"J'en suis sûr maintenant. Quel parti va gagner aux prochaines élections présidentielles, selon toi ?
+",formal
+Conosco qualcuno che ha lavorato da Bubba Gump. È stato un piacere chiacchierare con te!,"Oui, je connais quelqu'un qui a travaillé chez Bubba Gump. Ce fut un plaisir de discuter avec vous !","Je sais, entre autres, qu'il a travaillé chez Bubba Gump. Discuter avec toi fut un plaisir !
+",formal
+Di sicuro! Ha mai visto Big Hero 6?,Bien sûr ! Avez-vous déjà vu Big Hero 6 ?,"C'est clair ! As-tu déjà vu Big Hero 6 ?
+",formal
+Non saprei. Ho visto solo il primo film. Ho sentito che Angela Bassett ha preso parte all'ultimo film. Mi piace molto. Quali sono i tuoi attori protagonisti preferiti?,Je ne saurais pas. Je n'ai vu que le premier film. J'ai entendu qu'Angela Bassett a participé au dernier film. Je l'aime beaucoup. Quels sont vos acteurs principaux préférés ?,"Je n'en sais rien. Je n'ai vu que le premier film. J'ai entendu dire qu'Angela Bassett joue dans le dernier. J'aime vraiment bien cette actrice. Quelles autres vedettes présentes dans ce film sont tes préférées ?
+",formal
+"Sì, sono forti, sai cosa intendo?","Oui, ils sont forts, vous voyez ce que je veux dire ?","Oui, ils sont cool, tu vois ce que je veux dire ?
+",formal
+"Lo facevo. Ora, come genitore, li calpesto. Ci giocavi?","Je le faisais. Maintenant, en tant que parent, je les piétine. Y avez-vous joué ?","Oui. Et maintenant je marche sur ceux de mes enfants. Y as-tu joué ?
+",formal
+"Sì, e nella maggior parte dei posti in cui viaggi puoi comunque accedere al tuo account, dato che è disponibile nei paesi tranne Cina, Siria, Corea del Nord e Crimea.","Oui, et dans la plupart des endroits où vous voyagez, vous pouvez tout de même accéder à votre compte, puisqu'il est disponible dans tous les pays sauf la Chine, la Syrie, la Corée du Nord et la Crimée.","Oui et tu peux toujours accéder à ton compte dans la plupart des destinations puisqu'il est disponible partout sauf en Chine, en Syrie, en Corée du Nord et en Crimée.
+",formal
+Non puoi sfuggire alla tua dipendenza nemmeno in cima all'Everest. Sulla sommità ci sono un servizio di dati mobili 3G e funzionalità Internet!,"Vous ne pouvez pas échapper à votre dépendance même au sommet de l'Everest. Au sommet, il y a un service de données mobiles 3G et des fonctionnalités Internet !","Il n'est même pas possible d'échapper à ton addiction au sommet de l'Everest. Il y a la 3G et Internet là-haut !
+",formal
+TZ non si smentisce mai. Hai visto il film Revenant - Redivivo? Era un film del 1971 sulla sopravvivenza nelle aree disabitate. Leo ha fatto un ottimo lavoro.,TZ ne se dément jamais. Avez-vous vu le film Revenant - Redivivo ? C'était un film de 1971 sur la survie dans les zones inhabitées. Leo a fait un excellent travail.,"J'aime bien La Quatrième Dimension. As-tu vu le film The Revenant ? C'est à la base un film de 1971 sur la survie dans la nature. Leo a fait un excellent travail.
+",formal
+Spero che anche tu ti  diverta e che passi una buona giornata! Anche per me è stato bello chiacchierare con te!,"J'espère que vous aussi vous vous amuserez et que vous passerez une bonne journée ! Pour moi aussi, ce fut un plaisir de discuter avec vous !","J'espère que tu apprécies la tienne également et que tu passes aussi une bonne journée ! C'était sympathique de discuter avec toi !
+",formal
+"Compagnia aerea, posso cancellare il mio viaggio senza annullare? In che modo l'annullamento potrebbe influire sul tuo lavoro ? Annullamento, ok vuoi cancellare il tuo viaggio? Se desideri cancellare il tuo volo puoi contattarci via e-mail o telefono.","Compagnie aérienne, puis-je annuler mon voyage sans frais ? De quelle manière une annulation pourrait-elle affecter votre travail ? Annulation, d'accord, vous voulez annuler votre voyage ? Si vous souhaitez annuler votre vol, vous pouvez nous contacter par e-mail ou par téléphone.","compagnie aérienne, puis-je annuler mon voyage sans annuler ? Comment l'annulation pourrait-elle affecter ton travail ? Annulation, d'accord. Veux-tu annuler ton voyage ? Si tu souhaites annuler ton vol, tu peux nous contacter par e-mail ou par téléphone.
+",formal
+"Davvero, sono in Florida, abbiamo le nostre zone. Ma la guida autonoma fa paura! Dato che Lei vive al freddo, perché sarebbe illegale riscaldare la sua auto in Ohio?","Vraiment, je suis en Floride, nous avons nos propres zones. Mais la conduite autonome fait peur ! Étant donné que vous vivez dans le froid, pourquoi serait-il illégal de chauffer votre voiture dans l'Ohio ?","C'est vrai, j'habite en Floride, nous avons nos propres régions. Mais les voitures autonomes font peur ! Comme tu vis dans le froid, pourquoi serait-ce illégal de réchauffer ta voiture dans l'Ohio ?
+",formal
+"Va bene, quindi, da consumatore, tu te ne infischi di chi lo fa, chi ci guadagna, quante persone occupa, tu vuoi solo ottenere il miglior prezzo per te.","Très bien, donc, en tant que consommateur, vous vous en fichez de qui le fait, qui en profite, combien de personnes sont employées, vous voulez juste obtenir le meilleur prix pour vous.","D'accord, en tant que consommateur, tu ne te soucies pas vraiment de qui le fabrique, à qui il fait gagner de l'argent, qui il aide à employer... Tu veux juste le payer au meilleur prix.
+",formal
+"Mi piace il baseball, ma non ho una squadra preferita. E tu?","J'aime le baseball, mais je n'ai pas d'équipe favorite. Et vous ?","J'aime le baseball, mais je n'ai pas vraiment d'équipe préférée. Et toi ?
+",formal
+Questo è un po' sorprendente. Avrei pensato al gran premio o a qualcosa del genere.... Scommetto che Logic La batterebbe a Mario Kart!,Cela est un peu surprenant. J'aurais pensé au Grand Prix ou quelque chose dans ce genre... Je parie que Logic vous battrait à Mario Kart !,"C'est un peu surprenant. J'ai plutôt pensé à Grand Prix ou quelque chose comme cela… Je parie que Logic pourrait te battre à Mario Kart !
+",formal
+"Quindi tu prendi quella confezione che è arrivata, non puoi ricomprare la stessa cosa.","Donc vous prenez ce paquet qui est arrivé, vous ne pouvez pas racheter la même chose.","Donc, tu prends cet emballage qui est arrivé, tu ne peux pas le racheter dans le même emballage.
+",formal
+"è più importante del lavoro, è più importante che avere un lavoro e una carriera perché la sua carriera finisce, la sua famiglia no. La sua famiglia va avanti, la sua stirpe si perpetua","La famille est plus importante que le travail, plus importante qu'avoir un emploi et une carrière, car votre carrière finira, mais pas votre famille. Votre famille continue, votre lignée se perpétue.","elle est plus importante que le travail, plus importante que d'avoir un travail et une carrière, parce que ta carrière s'arrête, mais ta famille non. Ta famille continue, ta lignée continuera
+",formal
+"Ma se tu, se uno si prende il tempo per guardare, allora sarà come... Oh, okay, sì, nessun problema, ma se tu non hai guardato allora io posso dirtelo.","Mais si vous prenez le temps de regarder, alors ce sera comme... Oh, d'accord, aucun problème, mais si vous n'avez pas regardé, je peux vous le raconter.","Mais si toi, si la personne prend le temps de regarder, elle se dira : « Ah, d'accord, oui, pas de problème », mais si tu n'as pas regardé, je peux te le dire.
+",formal
+Ha mai avuto un attacco epilettico? Non posso credere che qualcuno abbia avuto un attacco epilettico allo spettacolo comico di Ken Jeong!,Avez-vous déjà eu une crise d'épilepsie ? Je ne peux pas croire que quelqu'un ait eu une crise d'épilepsie pendant le spectacle comique de Ken Jeong !,"As-tu déjà fait un malaise ? C'est incroyable que quelqu'un ait eu un malaise au spectacle de Ken Jeong !
+",formal
+I blue jeans erano la strada da seguire. Non è stato proprio così. Cosa ne pensa dei negozi al dettaglio,Les blue jeans étaient la voie à suivre. Mais ce ne fut pas si simple. Que pensez-vous des magasins de détail ?,"Blue Jeans était la solution. Mais au final, pas tant que cela. Que penses-tu des magasins de détail ?
+",formal
+"Ma se Lei, se uno si prende il tempo per guardare, allora sarà come... Oh, okay, sì, nessun problema, ma se Lei non ha guardato allora io posso dirglielo.","Mais si vous, si l'on prend le temps de regarder, alors ce sera comme... Oh, d'accord, oui, aucun problème, mais si vous n'avez pas regardé alors je peux vous le raconter.","Mais si toi, si la personne prend le temps de regarder, elle se dira : « Ah, d'accord, oui, pas de problème », mais si tu n'as pas regardé, je peux te le dire.
+",formal
+Forse il trucco può davvero trasformarLa in quasi chiunque,Peut-être que le maquillage peut vraiment vous transformer en presque n'importe qui,"Certainement, avec du maquillage, tu peux vraiment te transformer en quelqu'un d'autre.
+",formal
+"Informazioni sul suo Instagram, ne sono sicuro","Des informations sur votre compte Instagram, j'en suis sûr","Informations sur ton Instagram, je suis sûr
+",formal
+"Sì, esattamente. Ci sono scarpe ispirate al Mago di Oz che in realtà La guidano a casa utilizzando un sistema GPS quando Lei clicca con i talloni.","Oui, exactement. Il existe des chaussures inspirées du Magicien d'Oz qui vous guident réellement vers la maison en utilisant un système GPS lorsque vous cliquez avec les talons.","Oui, exactement. Il existe des chaussures inspirées du Magicien d'Oz qui peuvent t'indiquer le chemin pour rentrer chez toi à l'aide d'un système GPS lorsque tu tapes des talons.
+",formal
+"(onestamente prendersi cura dei) miei figli i miei genitori sanno cosa fare. È proprio così che mi hanno cresciuto. Se tu potessi pensare alla cosa migliore, come sei stato allevato dai tuoi genitori e cose del genere.","(Honnêtement, pour prendre soin de) mes enfants, mes parents savent quoi faire. C'est exactement comme ça qu'ils m'ont élevé. Si vous pouviez penser à la meilleure chose, à la façon dont vous avez été élevé par vos parents et ce genre de choses.","(honnêtement prendre soin de) mes enfants, mes parents savent le faire. C'est ainsi qu'ils m'ont élevé. Si tu pouvais penser au meilleur dans la façon dont tu as été élevé par tes parents etc.
+",formal
+"Buon pomeriggio, spero che la sua giornata stia procedendo bene!","Bonjour, j'espère que vous passez une bonne journée !","Bonjour, j'espère que tu passes une bonne journée !
+",formal
+"Capisco, è per questo che il mio motto è rimanere single e socializzare, così non deve preoccuparsi di ferire i sentimenti altrui né che nessuno ferisca i suoi","Je comprends, c'est pour cela que ma devise est de rester célibataire et de socialiser, ainsi vous ne devez pas vous soucier de blesser les sentiments d'autrui ni que quelqu'un ne blesse les vôtres.","Je vois. C'est pourquoi je dis « sois célibataire et mêle-toi aux autres ». Ainsi, tu n'as pas à t'inquiéter de blesser les gens et de te blesser toi-même
+",formal
+"Esattamente. Fingi di aver bisogno di scappare dal terrore. Ahahah. Allora, ti piace Internet? O è la rovina della tua esistenza?","Exactement. Faites comme si vous aviez besoin de fuir la terreur. Ahahah. Alors, aimez-vous Internet ? Ou est-ce la ruine de votre existence ?","Exactement. Fais semblant de devoir t'éloigner de l'horreur à vélo. LOL Bon, aimes-tu Internet ? Ou est-ce le fléau de ton existence ?
+",formal
+è una cosa così divertente da inserire nel tuo codice di condotta. Sei più una persona da cane che da gatto?,C'est tellement drôle d'avoir intégré cela dans votre code de conduite. Êtes-vous plutôt une personne à chiens ou à chats ?,"c'est tellement drôle d'avoir intégré ça à ton code de conduite. Es-tu plutôt une personne à chiens ou à chats ?
+",formal
+"Oh così Lacoste era l'inventore, davvero interessante. Ha sentito del funerale di Bill Mays?","Oh, donc Lacoste était l'inventeur, vraiment intéressant. Avez-vous entendu parler des funérailles de Bill Mays ?","Donc Lacoste était l'inventeur, c'est très intéressant. As-tu entendu parler des funérailles de Bill May ?
+",formal
+"Sì, oppure sul tuo telefono. Quindi roba super funky. Penso sia il modo migliore per descriverlo: funky.","Oui, ou bien sur votre téléphone. Donc quelque chose de super funky. Je pense que c'est la meilleure façon de le décrire : funky.","Oui. Ou sur ton téléphone. Des trucs super sympa. Je pense que « sympa » est le bon terme.
+",formal
+Solo un viaggetto! Qual è la sua marca di scarpe preferita?,"Juste une petite virée ! Quelle est votre marque de chaussures préférée ?}
+
+La traduction utilise le pronom ""votre"" pour s'adresser à l'interlocuteur de manière formelle.","Juste un petit voyage ! Quelle est ta marque de chaussures préférée ?
+",formal
+Sai cosa intendo? Tua madre per esempio è una bella signora che non conosco nemmeno.,"Vous voyez ce que je veux dire ? Votre mère, par exemple, est une charmante dame, mais je ne la connais même pas.","Tu vois ce que je veux dire ? Ta mère, par exemple, est une charmante dame, mais je ne saurais dire si elle est une bonne amie.
+",formal
+"Idem. Cerca di rendere perfetta questa giornata, comunque vada.","Idem. Essayez de rendre cette journée parfaite, quoi qu'il arrive.","Pareil. Essaie de passer une journée parfaite, à ta manière.
+",formal
+Penso che l'abbia fatto perché quando gli ho parlato è stato molto positivo sulla conversazione con te,"Je pense qu'il l'a fait parce que quand je lui ai parlé, il était très positif à propos de votre conversation","Je pense qu'il l'a fait parce que quand je lui ai parlé, il était très positif à propos de ta conversation
+",formal
+"Mi dispiace, sì, quindi è piuttosto interessante. Allora, qual è stata la sua esperienza all'estero?","Je suis désolé, oui. Et c'est très intéressant. Alors, qu'avez-vous pensé de vos voyages à l'étranger ?","Je suis désolé, oui. Et c'est très intéressant. Alors, qu'as-tu pensé de tes voyages à l'étranger ?
+",formal
+"Sì, e nella maggior parte dei posti in cui viaggia può comunque accedere al suo account, dato che è disponibile nei paesi tranne Cina, Siria, Corea del Nord e Crimea.","Oui, et dans la plupart des endroits où vous voyagez, vous pouvez quand même accéder à votre compte, étant donné qu'il est disponible dans tous les pays sauf la Chine, la Syrie, la Corée du Nord et la Crimée.","Oui et tu peux toujours accéder à ton compte dans la plupart des destinations puisqu'il est disponible partout sauf en Chine, en Syrie, en Corée du Nord et en Crimée.
+",formal
+"Oh, ahah! Questo è forte. Quindi forse un criceto è nel tuo futuro eheh. Ho un cane. Il primo gatto clonato si chiamava ""copione” ahah","Oh lol, c'est cool. Peut-être que vous aurez un hamster alors. Lol, j'ai un chien. Le premier chat cloné s'appelait copycat lol","Oh lol, cool. Peut-être que tu auras un hamster alors. Lol, j'ai un chien. Le premier chat cloné s'appelait copycat lol
+",formal
+"ma era strano avere così tanto tempo nel tardo pomeriggio, sai e avere giornate lavorative complete.","Mais c'était étrange d'avoir autant de temps dans l'après-midi, vous savez, et d'avoir des journées de travail complètes.","mais c'était bizarre d'avoir autant de temps en fin d'après-midi, tu sais, tout en ayant tes journées de travail complètes.
+",formal
+"A proposito, la sua finestra è aperta? Può chiuderla? Sì, dà veramente fastidio e speriamo che così sia possibile sentire meglio.","À propos, votre fenêtre est ouverte ? Pourriez-vous la fermer ? Oui, c'est vraiment gênant et espérons qu'ainsi nous pourrons mieux entendre.","Au fait, ta fenêtre est-elle ouverte ? Peux-tu la fermer ? Oui, c'est vraiment ennuyeux. Et j'espère que cela facilitera la tâche des personnes qui écoutent.
+",formal
+"Ti fa male allo stomaco, ok. Penso che tu sia intollerante al lattosio.","Cela vous fait mal à l'estomac, d'accord. Je pense que vous êtes intolérant au lactose.","Cela te fait mal au ventre, d'accord. Je pense que tu es intolérant au lactose.
+",formal
+"(Beh, ricordo che) ho una domanda per Lei. Ne ha delle altre? il modo migliore per spiegare è spiegare come funziona la mia città",J'ai une question à vous poser. En avez-vous d'autres ? La meilleure façon d'expliquer est de vous dire comment fonctionne ma ville.,"(Ah oui, je me souviens) J'ai une question pour toi. En avais-tu plusieurs ? La meilleure façon de faire est d'expliquer comment fonctionne ma ville
+",formal
+"A proposito, la tua finestra è aperta? puoi chiuderla? Sì, dà veramente fastidio e speriamo che così sia possibile sentire meglio.","À propos, votre fenêtre est ouverte ? Pourriez-vous la fermer ? Oui, c'est vraiment gênant et on espère qu'ainsi on pourra mieux entendre.","Au fait, ta fenêtre est-elle ouverte ? Peux-tu la fermer ? Oui, c'est vraiment ennuyeux. Et j'espère que cela facilitera la tâche des personnes qui écoutent.
+",formal
+"Ah, no, non sono mai stato capace di capire la poesia. È stato bello parlare con Lei, buon proseguimento di giornata!","Ah non, je n'ai jamais été capable de comprendre la poésie. C'était un plaisir de discuter avec vous, bonne continuation de journée !","Ah, non, je n'ai jamais réussi à comprendre la poésie. C'était sympa de discuter avec toi, passe une bonne fin de journée !
+",formal
+"Non credo di averli visti. Non seguo molto la serie Marvel. So che Chris Pratt ha un ruolo in una serie televisiva, Parks and Recreation. L'hai vista?","Non, je ne crois pas les avoir vus. Je ne suis pas trop la série Marvel. Je sais que Chris Pratt a un rôle dans une série télévisée, Parks and Recreation. L'avez-vous vue ?","Je ne crois pas les avoir vus. Je ne suis pas les séries Marvel assidûment. Je sais que Chris Pratt joue un rôle dans une série télévisée, Parcs et Loisirs. L'as-tu regardée ?
+",formal
+"Sì, quello andrà bene. Che mi dice di Inception: l'ha visto?","Oui, cela ira. Et Inception, vous l'avez vu ?","Oui, cela ira. Et Inception, tu l'as vu ?
+",formal
+"Sì, oppure sul suo telefono. Quindi roba super funky. Penso sia il modo migliore per descriverlo: funky.","Oui, ou bien sur votre téléphone. Donc quelque chose de super funky. Je pense que c'est la meilleure façon de le décrire : funky.","Oui. Ou sur ton téléphone. Des trucs super sympa. Je pense que « sympa » est le bon terme.
+",formal
+"Sì, è un look stupido, nessuno vuole vedere i tuoi cassetti. Buona notte!","Oui, ce style est absurde. Personne n'a envie de voir votre caleçon. Bonne nuit !","Oui, ce style est absurde. Personne n'a envie de voir ton caleçon. Bonne nuit !
+",formal
+"La salute di suo padre è generalmente piuttosto buona, è la sua mente che soffre, oppure ha, se ha l'Alzheimer, so che questo influisce anche su di te in altri modi,","La santé de votre père est généralement plutôt bonne, c'est son esprit qui souffre, ou s'il a la maladie d'Alzheimer, je sais que cela vous affecte aussi d'autres manières,","La santé de son père est assez bonne, c'est son esprit qui souffre. S'il a la maladie d'Alzheimer, je sais que cela affecte ton corps aussi de différentes manières,
+",formal
+"cosa? Mi dica com'è la vita. E a lui ho detto, ascolti, non funzionerà. E ho detto, mi faccia il favore. Non torni al suo","Quoi ? Dites-moi comment est la vie. Et je lui ai dit, écoutez, cela ne fonctionnera pas. Et j'ai dit, faites-moi cette faveur. Ne retournez pas à votre","comme quoi ? Dis-moi à quoi ressemble la vie. Et je lui ai dit, écoute, ça ne marchera pas. Et j'ai dit, fais-moi une faveur. Ne retournes pas dans ton
+",formal
+"Mi piace il baseball, ma non ho una squadra preferita. E Lei?","J'aime le baseball, mais je n'ai pas d'équipe favorite. Et vous ?","J'aime le baseball, mais je n'ai pas vraiment d'équipe préférée. Et toi ?
+",formal
+"Già che ti piacciono i film, qual è il tuo preferito?","Puisque vous aimez les films, quel est votre film préféré ?","Tu regardes des films. Lequel est ton préféré ?
+",formal
+"L'ho visto prima. A proposito del telefono, l'Unicef donerà un giorno di acqua pulita a un bambino bisognoso per ogni minuto che Lei non usa il suo cellulare. Bella iniziativa.","Je l'ai vu plus tôt. Au fait, concernant le téléphone, l'UNICEF donnera un jour d'eau potable à un enfant dans le besoin pour chaque minute où vous n'utiliserez pas votre téléphone portable. Une belle initiative.","Je l'avais déjà vu. À propos de téléphone, Unicef va offrir une journée d'eau potable à un enfant dans le besoin pour chaque minute que tu passes sans ton téléphone portable. Bonne initiative.
+",formal
+"Comunque, scusi se non ho visto la sua domanda sul pesce. Ho provato a tenere pesci rossi come animali domestici diverse volte nel corso degli anni. Ho avuto anche un serpente da compagnia, una volta. Quanto era grande il suo pitone?","Quoi qu'il en soit, excusez-moi si je n'ai pas vu votre question sur les poissons. J'ai essayé d'avoir des poissons rouges comme animaux de compagnie plusieurs fois au fil des ans. J'ai aussi eu un serpent comme animal de compagnie, une fois. Quelle était la taille de votre python ?","Désolé, je n'ai pas vu ta question à propos du poisson. J'ai essayé plusieurs fois de m'occuper de poissons rouges. J'ai eu un serpent des blés, un jour. Quelle est la taille de ton python ?
+",formal
+"wow, sarebbe una rovina per la sua squadra! Era uno Yankee all'epoca o un Red Sox, non ricordo?","Waouh, ce serait une ruine pour votre équipe ! Est-ce qu'il faisait partie des Yankees à l'époque ou des Red Sox ? Je ne me rappelle pas.","Waouh, c'est tellement dur pour ton équipe ! Est-ce qu'il faisait partie des Yankees à l'époque ou des Red Sox ? Je ne me rappelle pas
+",formal
+"Non credo. Sono indipendenti. Se sentono il bisogno di arrampicarsi sul suo braccio, lo faranno; e a differenza dei cani, si lamenteranno di conseguenza.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de vous grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de te grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.
+",formal
+"Quando ce l'ha, quando ha un figlio di cui è responsabile, deve organizzarsi.","Lorsque vous en avez un, lorsque vous avez un enfant dont vous êtes responsable, vous devez vous organiser.","Quand tu le fais, quand tu as un enfant à charge, tu dois t'y préparer.
+",formal
+"Ne sono al corrente. Ehi, cosa ne pensi di Morgan Freeman? Ho saputo solo poco tempo fa che aveva lavorato nella compagnia elettrica negli anni '70!","J'en suis conscient. Dites-moi, que pensez-vous de Morgan Freeman ? Je viens d'apprendre récemment qu'il avait travaillé pour une compagnie d'électricité dans les années 70 !","C'est ce que j'ai entendu aussi. Que penses-tu de Morgan Freeman ? J'ai découvert récemment qu'il a joué dans The Electric Company dans les années 1970 !
+",formal
+"Proprio il contrario: FB promette un'eternità di gelosia e odio per se stessi perché Becky e Donna, i tuoi ""amici"" di FB, hanno foto delle vacanze migliori delle tue","Tout au contraire : Facebook promet une éternité de jalousie et de haine envers soi-même parce que Becky et Donna, vos ""amis"" sur Facebook, ont de meilleures photos de vacances que les vôtres.","C'est tout le contraire. Facebook promet une éternité de jalousie et de haine de soi car Becky et Donna, tes « amies » FB ont de meilleures photos de vacances que toi
+",formal
+"devi insegnare loro valori come provare cose diverse, capisci cosa intendo?","Vous devez leur enseigner des valeurs comme essayer de nouvelles choses, vous voyez ce que je veux dire ?","tu dois leur enseigner des valeurs comme essayer et persévérer, tu vois ce que je veux dire ?
+",formal
+Non può sfuggire alla sua dipendenza nemmeno in cima all'Everest. Sulla sommità ci sono un servizio di dati mobili 3G e funzionalità Internet!,"Vous ne pouvez pas échapper à votre dépendance, même au sommet de l'Everest. Il y a un service de données mobiles 3G et des fonctionnalités Internet au sommet !","Tu regardes des films. Lequel est ton préféré ?
+",formal
+"Seipreoccupato che in futuro, quando avrai i dispositivi intelligenti, i tuoi possano dire: Oh! Mi piacerebbe ordinare un qualcosa da Amazon e poi, ehi così e così","Êtes-vous préoccupé qu'à l'avenir, lorsque vous aurez des appareils intelligents, ils puissent dire : ""Oh ! J'aimerais commander quelque chose sur Amazon"" et ainsi de suite ?","Es-tu préoccupé à l'idée qu'à l'avenir, tes enfants puissent dire « Oh ! J'adorerais commander une couverture sur Amazon, et puis ça et ça... » sur tes appareils connectés ?
+",formal
+Il Sole sta bloccando il tuo segnale internet stasera?,Le Soleil bloque-t-il votre signal internet ce soir ?,"C'est le soleil qui bloque ton signal Internet ce soir ?
+",formal
+"soprattutto perché immagino che, a differenza della tua famiglia, nel suo caso nessuno di noi segue davvero la stessa strada per così dire.","Surtout parce que j'imagine que, contrairement à votre famille, dans notre cas, aucun d'entre nous ne suit vraiment le même chemin, pour ainsi dire.","d'autant plus que je suppose que, contrairement à ta famille, dans son cas, aucun de nous ne suit vraiment le chemin pour ainsi dire.
+",formal
+"Sì, è piuttosto interessante. Hai visto I Goonies?","Oui, c'est plutôt intéressant. As-tu vu Les Goonies ?","Oui, c'est intéressant. Avez-vous vu les Goonies ?
+",informal
+"Lo fanno, anche a Bloomingdale, prendono anche loro, restituiranno il suo trucco e roba del genere,","Ils le font aussi à Bloomingdale, ils prennent aussi tes produits de maquillage et autres, ils te les rendront,","Ils le font, même à Bloomingdale, ils vous reprennent le maquillage et tout le reste,
+",informal
+Questo è molto bello. Ti piace osservare gli uccelli?,C'est très beau. Aimes-tu observer les oiseaux ?,"C'est plutôt cool. Aimez-vous observer les oiseaux ?
+",informal
+Sono disposti a partecipare a quella parte della sua vita.,Je suis prêt à faire partie de cette partie de ta vie.,"Sont-ils prêts à prendre part à cette partie de votre vie.
+",informal
+"Perché i cani richiedono molto impegno, fanno rumore e fanno pipì sul pavimento e distruggono le tue cose, e sono davvero importuni.","Parce que les chiens demandent beaucoup de travail, ils sont bruyants, font pipi par terre, détruisent tes affaires et sont juste chiants.","Parce que les chiens demandent beaucoup de travail, ils sont bruyants, font pipi sur le sol, ils détruisent vos affaires et ils sont juste ennuyeux.
+",informal
+"Quali sono i tuoi film preferiti, quali sono gli altri tuoi film preferiti e/o i tuoi film dell'anno?","Quels sont tes films préférés, tes autres films préférés et/ou tes films de l'année ?","Quels sont vos films préférés, quels sont vos autres films préférés et/ou les films que vous avez préférés cette année ?
+",informal
+Solo un viaggetto! Qual è la tua marca di scarpe preferita?,Juste une petite virée ! Quelle est ta marque de chaussures préférée ?,"Juste un petit voyage ! Quelle est votre marque de chaussures préférée ?
+",informal
+"Lo so, non l'ho visto. Che fortuna trovare nella soffitta di tuo nonno delle figurine di baseball  che valgono 3 milioni di dollari! Bella chiacchierata!","Je sais, je ne l'ai pas vu. Quelle chance de trouver dans le grenier de ton grand-père des cartes de baseball valant 3 millions de dollars ! Belle conversation !","Je sais, je ne l'ai pas vu. Quelle chance de trouver des cartes de baseball d'une valeur de 3 millions de dollars dans le grenier de votre grand-père ! Merci pour le chat !
+",informal
+mentre siedi nella parte posteriore dell'auto e non devi concentrarti sulla strada. Quante ore all'anno trascorri alla guida invece di utilizzarle per una maggiore produttività.,"tout en étant assis à l'arrière de ta voiture, sans avoir à te concentrer sur la route. Combien d'heures par an passes-tu à conduire alors que tu pourrais utiliser ce temps pour être plus productif ?","tout en étant assis à l'arrière de votre voiture, sans avoir à vous concentrer sur la route. Combien d'heures par an passez-vous à conduire alors que vous pourriez utiliser ce temps pour être plus productif ?
+",informal
+"è stato un viaggio divertente, quali sono i tuoi ricordi più belli di quel viaggio?","C'était un voyage amusant, quels sont tes meilleurs souvenirs de ce voyage ?","c'était un voyage amusant. Quels sont vos meilleurs souvenirs de ce voyage ?
+",informal
+"È preoccupato che in futuro, quando avrà i dispositivi intelligenti, i suoi figli possano dire: Oh! Mi piacerebbe ordinare un qualcosa da Amazon e poi, ehi così e così","Es-tu inquiet qu'à l'avenir, quand tes enfants auront des appareils intelligents, ils puissent dire : ""Oh ! J'aimerais commander un truc sur Amazon"" et puis ""Hé, machin truc"" ?","Êtes-vous préoccupé à l'idée qu'à l'avenir, vos enfants puissent dire « Oh ! J'adorerais commander une couverture sur Amazon, et puis ça et ça... » sur vos appareils connectés ?
+",informal
+"Non credo di averli visti. Non seguo molto la serie Marvel. So che Chris Pratt ha un ruolo in una serie televisiva, Parks and Recreation. L'ha vista?","Non, je ne les ai pas vus. Je ne suis pas trop les séries Marvel. Je sais que Chris Pratt a un rôle dans une série télé, Parks and Recreation. L'as-tu vue ?","Je ne crois pas les avoir vus. Je ne suis pas les séries Marvel assidûment. Je sais que Chris Pratt joue un rôle dans une série télévisée, Parcs et Loisirs. L'avez-vous regardée ?
+",informal
+Potrebbero essere nella sua soffitta se non è ben ventilata.,Ils pourraient être dans ton grenier s'il n'est pas bien ventilé.,"C'est peut-être dans votre grenier si ce n'est pas bien aéré.
+",informal
+"(Beh, ricordo che) ho una domanda per te. Ne hai delle altre? il modo migliore per spiegare è spiegare come funziona la mia città","(Eh bien, je me souviens que) j'ai une question pour toi. En as-tu d'autres ? La meilleure façon d'expliquer est d'expliquer comment fonctionne ma ville","(Ah oui, je me souviens) J'ai une question pour vous. En aviez-vous plusieurs ? La meilleure façon de faire est d'expliquer comment fonctionne ma ville
+",informal
+"Mi piaceva giocare a Pokemon, ci hai mai giocato o guardato la serie?",J'adorais jouer à Pokemon. As-tu déjà joué au jeu ou regardé la série ?,"J'adorais jouer à Pokemon. Avez-vous déjà joué au jeu ou regardé la série ?
+",informal
+Interessante. Hai visto quel film? Io sì.,"Intéressant. As-tu vu ce film ? Moi, oui.","Intéressant. Avez-vous vu ce film ? Moi oui.
+",informal
+"Sì, l'ho appena visto nell'ultima interpretazione Disney dello Schiaccianoci. L'hai visto?","Oui, je viens de le voir dans la dernière adaptation Disney du Casse-Noisette. L'as-tu vu ?","Oui, je viens de voir la dernière adaptation de Casse-Noisettes par Disney.  L'avez-vous vue ?
+",informal
+"ma i loro prezzi sono straordinari, e poi hanno così tante cose che dovresti proprio provare","Mais leurs prix sont extraordinaires, et puis ils ont tellement de choses que tu devrais vraiment essayer.","mais leurs prix sont tellement intéressants, et puis ils ont tellement de choix que vous n'avez qu'à essayer
+",informal
+"Capisco, è per questo che il mio motto è rimanere single e socializzare, così non devi preoccuparti di ferire i sentimenti altrui né che nessuno ferisca i tuoi","Je comprends, c'est pour ça que ma devise c'est de rester célibataire et de socialiser, comme ça tu n'as pas à t'inquiéter de blesser les sentiments des autres ni qu'on blesse les tiens","Je vois. C'est pourquoi je dis « soyez célibataire et mêlez-vous aux autres ». Ainsi, vous n'avez pas à vous inquiéter de blesser les gens et de vous blesser vous-même
+",informal
+"Certo, mi potresti anche dare il tuo codice postale e il nome della via, per favore?","Bien sûr. Peux-tu aussi me donner ton code postal et le nom de ta rue, s'il te plaît ?","Bien sûr. Puis-je également avoir votre code postal et le nom de la rue, s'il vous plaît ?
+",informal
+"Ok, tutto chiaro. Entri nel suo appartamento o li lasci entrare. In modo che, sa, possa andare avanti per sempre. Guardi, non so quanto durerà","Ok, tout est clair. Tu entres dans son appartement ou tu les laisses entrer. De cette façon, tu vois, ça peut continuer pour toujours. Écoute, je ne sais pas combien de temps ça va durer.","D'accord, tout est en ordre. Entrez dans votre appartement ou laissez-les entrer. Et ça, vous savez, ça dure pour toujours. Écoutez, je ne sais pas combien de temps cela va
+",informal
+"Wow, è impressionante! Ha capito che gli aerei viaggiano il 10% più lentamente al giorno d'oggi? Lo fanno per risparmiare carburante, ma così giunge anche più lentamente a destinazione","Wow, c'est impressionnant ! Savais-tu que les avions voyagent 10% plus lentement de nos jours ? Ils le font pour économiser du carburant, mais du coup ils arrivent aussi plus lentement à destination","Waouh c'est impressionnant ! Saviez-vous que les avions voyagent 10 % plus lentement ces temps-ci ? C'est pour économiser du carburant, mais vous arrivez à destination plus lentement
+",informal
+"ma ognuno di quelli li potresti fare, freelance dot com. Ho un account lì",mais tu pourrais faire chacun d'entre eux sur freelance.com. J'ai un compte là-bas,"mais vous pourriez faire tout cela sur freelancer.com. Je possède déjà un compte
+",informal
+"Sì, è fantastico, ahah. Cosa ne pensa del fatto che Vin Diesel abbia ricevuto una sceneggiatura segreta che dice ciò di cui Groot sta effettivamente parlando nei film?","Oui, c'est génial, ahah. Que penses-tu du fait que Vin Diesel ait reçu un script secret qui explique ce que Groot dit réellement dans les films ?","Oui, c'est cool, ah ah. Que pensez-vous de cette rumeur selon laquelle Vin Diesel aurait reçu un script secret révélant ce que dit Groot dans les films ?
+",informal
+"Lo so, non l'ho visto. Che fortuna trovare nella soffitta di suo nonno delle figurine di baseball  che valgono 3 milioni di dollari! Bella chiacchierata!","Je sais, je ne l'ai pas vu. Quelle chance de trouver dans le grenier de ton grand-père des cartes de baseball valant 3 millions de dollars ! Belle conversation !","Je sais, je ne l'ai pas vu. Quelle chance de trouver des cartes de baseball d'une valeur de 3 millions de dollars dans le grenier de votre grand-père ! Merci pour le chat !
+",informal
+"Non credo. Sono indipendenti. Se sentono il bisogno di arrampicarsi sul tuo braccio, lo faranno; e a differenza dei cani, si lamenteranno di conseguenza.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de te grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de vous grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.
+",informal
+"Certo, mi potrebbe anche dare il suo codice postale e il nome della via, per favore?","Bien sûr. Tu peux aussi me donner ton code postal et le nom de ta rue, s'il te plaît ?","Bien sûr. Puis-je également avoir votre code postal et le nom de la rue, s'il vous plaît ?
+",informal
+"Perché i cani richiedono molto impegno, fanno rumore e fanno pipì sul pavimento e distruggono le sue cose, e sono davvero importuni.","Parce que les chiens demandent beaucoup de travail, ils sont bruyants, font pipi sur le sol, ils détruisent tes affaires et ils sont juste ennuyeux.","Parce que les chiens demandent beaucoup de travail, ils sont bruyants, font pipi sur le sol, ils détruisent vos affaires et ils sont juste ennuyeux.
+",informal
+"Sì, lo so, giocavo molto con il Nintendo da piccolo. E tu?","Oui, je sais, je jouais beaucoup à la Nintendo quand j'étais petit. Et toi ?","Oui, avant je jouais beaucoup à la Nintendo. Et vous ?
+",informal
+"ma i loro prezzi sono straordinari, e poi hanno così tante cose che Lei dovrebbe proprio provare","mais leurs prix sont extraordinaires, et puis ils ont tellement de choses que tu devrais vraiment essayer","mais leurs prix sont tellement intéressants, et puis ils ont tellement de choix que vous n'avez qu'à essayer
+",informal
+"L'ho visto prima. A proposito del telefono, l'Unicef donerà un giorno di acqua pulita a un bambino bisognoso per ogni minuto che tu non usi il tuo cellulare. Bella iniziativa.","Je l'ai vu avant. Au fait, pour le téléphone, l'Unicef donnera une journée d'eau potable à un enfant dans le besoin pour chaque minute où tu n'utiliseras pas ton portable. Une belle initiative.","Je l'avais déjà vu. À propos de téléphone, Unicef va offrir une journée d'eau potable à un enfant dans le besoin pour chaque minute que vous passez sans votre téléphone portable. Bonne initiative.
+",informal
+"(onestamente prendersi cura dei) miei figli i miei genitori sanno cosa fare. È proprio così che mi hanno cresciuto. Se Lei potesse pensare alla cosa migliore, come è stato allevato dai suoi genitori e cose del genere.","(Honnêtement, pour prendre soin de) mes enfants, mes parents savent quoi faire. C'est comme ça qu'ils m'ont élevé. Si tu pouvais penser à la meilleure chose, comment tes parents t'ont élevé et ce genre de choses.","(honnêtement prendre soin de) mes enfants, mes parents savent le faire. C'est ainsi qu'ils m'ont élevé. Si vous pouviez penser au meilleur dans la façon dont vous avez été élevé par vos parents etc.
+",informal
+"Penso solo perché, in termini di specie, come ha detto Lei, gli umani si sono (sviluppati). Probabilmente sembrava un po' strano. Lei pensa suo...","Je pense juste que, en termes d'espèce, comme tu l'as dit, les humains se sont (développés). Ça devait probablement sembler un peu bizarre. Tu penses que ton...}
+
+La traduction utilise le tutoiement ""tu"" et des expressions familières ","Je pense que c'est simplement parce que, en termes d'espèces, comme vous l'avez dit, les humains sont (développés). Cela avait probablement l'air un peu étrange. Vous pensez que votre
+",informal
+Sarebbe esilarante vedere cosa si è inventato qualcuno. Cosa useresti? Ahah,Ça serait hilarant de voir ce que quelqu'un a inventé. Qu'est-ce que tu utiliserais ? Haha,"Ce serait hilarant de voir ce que certains trouveraient. Qu'est-ce que vous utiliseriez ? lol
+",informal
+"Sì, l'ho appena visto nell'ultima interpretazione Disney dello Schiaccianoci. L'ha visto?","Oui, je viens de le voir dans la dernière adaptation Disney du Casse-Noisette. L'as-tu vu ?","Oui, je viens de voir la dernière adaptation de Casse-Noisettes par Disney.  L'avez-vous vue ?
+",informal
+"Proprio il contrario: FB promette un'eternità di gelosia e odio per se stessi perché Becky e Donna, i suoi ""amici"" di FB, hanno foto delle vacanze migliori delle sue","Tout le contraire : FB promet une éternité de jalousie et de haine envers soi-même parce que Becky et Donna, tes ""amies"" sur FB, ont de meilleures photos de vacances que les tiennes","C'est tout le contraire. Facebook promet une éternité de jalousie et de haine de soi car Becky et Donna, vos « amies » FB ont de meilleures photos de vacances que vous
+",informal
+"È così, semplicemente. Quali sono le aspirazioni dei tuoi genitori per te?","C'est comme ça, simplement. Quelles sont les aspirations de tes parents pour toi ?","C'est ainsi. Qu'est-ce que vos parents voudraient que vous deveniez ?
+",informal
+"sai, posso vedere come, quando tu sei in un processo in determinati tipi di situazioni legali. In realtà si tratta solo di sapere se sei disposto ad alzarti affermando di sapere","tu vois, je peux comprendre ta situation quand tu es dans un procès, dans certains types de situations juridiques. En fait, ça se résume à savoir si t'es prêt à te lever et à affirmer que tu sais quelque chose","vous savez que je peux connaître votre situation dans un procès dans certains types de situations juridiques. Ce qui compte, c'est de savoir jusqu'où vous êtes prêt à aller
+",informal
+E avevano un mercato proprio come la sua soluzione,Et ils avaient un marché tout comme ta solution,"Et ils avaient un marché comme votre solution
+",informal
+mentre Lei siede nella parte posteriore dell'auto e non deve concentrarsi sulla strada. Quante ore all'anno trascorre alla guida invece di utilizzarle per una maggiore produttività.,tandis que tu es assis à l'arrière de la voiture et que tu n'as pas à te concentrer sur la route. Combien d'heures par an passes-tu à conduire au lieu d'être plus productif ?,"tout en étant assis à l'arrière de votre voiture, sans avoir à vous concentrer sur la route. Combien d'heures par an passez-vous à conduire alors que vous pourriez utiliser ce temps pour être plus productif ?
+",informal
+Non posso nemmeno immaginare di lavorare così duramente per un ruolo e non ottenerlo! Ho guardato Ironman fino alla fine. E tu?,Je ne peux même pas imaginer travailler si dur pour un rôle et ne pas l'obtenir ! J'ai regardé Ironman jusqu'à la fin. Et toi ?,"Je ne peux même pas concevoir de travailler aussi dur pour un rôle et ne pas l'obtenir ! J'ai regardé Iron Man d'une traite. Et vous ?
+",informal
+Cosa Le piace fare per divertirsi per mantenere la sua attenzione e i suoi interessi?,Qu'est-ce que tu aimes faire pour t'amuser et pour garder ton esprit occupé ?,"Qu'est-ce que vous aimez faire pour vous amuser et pour garder votre esprit occupé ?
+",informal
+Allora parlami del tuo migliore amico d'infanzia.,Alors parle-moi de ton meilleur ami d'enfance.,"Alors parlez-moi de votre meilleur ami d'enfance.
+",informal
+"È una buona idea! Beh, è stato divertente e veloce chiacchierare con te questa mattina. Spero che tu ti goda il resto della tua giornata, amico!","C'est une bonne idée ! Eh bien, c'était amusant et rapide de bavarder avec toi ce matin. J'espère que tu profiteras du reste de ta journée, mon ami !","C'est une bonne idée ! C'était sympa de discuter rapidement avec vous ce matin. Profitez du reste de votre journée, mon ami !
+",informal
+"Sa, se il suo cliente è del tipo che intende comprarne ancora. Qualcosa come, oh no, è un problema.","Ouais, si ton client est du genre à en acheter encore. Un truc du genre, oh non, c'est un problème.","Vous savez, si votre client est du genre à vouloir en acheter plus. C'est comme si ce n'était pas une bonne chose.
+",informal
+"Comunque, scusa se non ho visto la tua domanda sul pesce. Ho provato a tenere pesci rossi come animali domestici diverse volte nel corso degli anni. Ho avuto anche un serpente da compagnia, una volta. Quanto era grande il tuo pitone?","Désolé de ne pas avoir vu ta question sur les poissons. J'ai essayé d'avoir des poissons rouges comme animaux de compagnie plusieurs fois au fil des ans. J'ai même eu un serpent comme animal de compagnie, une fois. Quelle était la taille de ton python ?","Désolé, je n'ai pas vu votre question à propos du poisson. J'ai essayé plusieurs fois de m'occuper de poissons rouges. J'ai eu un serpent des blés, un jour. Quelle est la taille de votre python ?
+",informal
+Mi è piaciuta in La bella e la bestia. È su Netflix se ce l'hai. Mi ricorda momenti dell'infanzia,J'ai bien aimé son rôle dans La Belle et la Bête. C'est sur Netflix si tu l'as. Ça me rappelle des moments de mon enfance.,"J'ai aimé sa performance dans La Belle et la Bête. Le film est sur Netflix si vous y avez accès. Cela me rappelle des souvenirs d'enfance.
+",informal
+"A proposito, cosa ne pensi di Chris Pratt? È buffo che abbia voluto riassumere il regista James Gunn per il nuovo film Guardiani della Galassia","Et que penses-tu de Chris Pratt, d'ailleurs ? C'est drôle qu'il ait voulu retravailler avec le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.","Et que pensez-vous de Chris Pratt, d'ailleurs ? C'est drôle qu'il ait considéré travailler de nouveau avec le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.
+",informal
+"Eh sì, sai cosa intendo dire, il tempo passa velocissimo","Eh ouais, tu vois ce que je veux dire, le temps passe super vite","Oui, vous voyez ce que je veux dire. Le temps passe très vite
+",informal
+"Sì, io sì. Mi piace. E tu?","Oui, moi aussi. J'aime bien. Et toi ?","Oui. Ils sont bons ! Et vous ?
+",informal
+"A proposito, cosa ne pensa di Chris Pratt? È buffo che abbia voluto riassumere il regista James Gunn per il nuovo film Guardiani della Galassia","Et que penses-tu de Chris Pratt, d'ailleurs ? C'est drôle qu'il ait voulu retravailler avec le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.","Et que pensez-vous de Chris Pratt, d'ailleurs ? C'est drôle qu'il ait considéré travailler de nouveau avec le réalisateur James Gunn pour le nouveau film Les Gardiens de la Galaxie.
+",informal
+"Che mi dice del suo team, mi ha detto di avere un ottimo rapporto con i suoi colleghi.","Que me dis-tu de ton équipe, tu m'as dit que tu avais d'excellentes relations avec tes collègues.","Alors, qu'en est-il de votre équipe, vous avez indiqué que vous entreteniez une assez bonne relation avec vos collègues.
+",informal
+"Ah, bello! Dovresti andarci più spesso allora, hehe. Hai visto l'ultimo de La bella e la bestia?","Ah, chouette ! Tu devrais y aller plus souvent alors, hehe. As-tu vu le dernier La Belle et la Bête ?","Ah super ! Vous devriez y aller plus souvent alors, ah ah. Avez-vous vu le tout dernier film La Belle et la Bête ?
+",informal
+Questo è vero. Hai sentito di quella volta nel 1957 quando Truman rifiutò di farsi fotografare con Dumbo?,C'est vrai. As-tu entendu parler de cette fois en 1957 où Truman a refusé de se faire photographier avec Dumbo ?,"C'est vrai. Avez-vous entendu parler de cet événement en 1957, lorsque Trump a refusé d'être photographié avec Dumbo ?
+",informal
+Parliamo del suo ristorante preferito molto interessante,"Parlons de ton resto préféré, c'est très intéressant","Parlons de votre restaurant préféré
+",informal
+Parliamo del tuo ristorante preferito molto interessante,"Parlons de ton restaurant préféré, très intéressant","Parlons de votre restaurant préféré
+",informal
+Cosa ti piace fare per divertirti per mantenere la tua attenzione e i tuoi interessi?,Qu'est-ce que tu aimes faire pour t'amuser et rester attentif et intéressé ?,"Qu'est-ce que vous aimez faire pour vous amuser et pour garder votre esprit occupé ?
+",informal
+"Sì, io sì. Mi piace. E Lei?","Oui, j'aime bien. Et toi ?","Oui. Ils sont bons ! Et vous ?
+",informal
+Mi è piaciuta in La bella e la bestia. È su Netflix se ce l'ha. Mi ricorda momenti dell'infanzia,Je l'ai bien aimée dans La Belle et la Bête. C'est sur Netflix si tu l'as. Ça me rappelle des moments de mon enfance,"J'ai aimé sa performance dans La Belle et la Bête. Le film est sur Netflix si vous y avez accès. Cela me rappelle des souvenirs d'enfance.
+",informal
+"Lo fanno, anche a Bloomingdale, prendono anche loro, restituiranno il tuo trucco e roba del genere,","Ils le font, même à Bloomingdale, ils te reprennent ton maquillage et tout le reste,","Ils le font, même à Bloomingdale, ils vous reprennent le maquillage et tout le reste,
+",informal
+Non ne avevo idea! Le è piaciuto La Bella e la Bestia?,Je n'en avais aucune idée ! As-tu aimé La Belle et la Bête ?,"Je n'en savais rien ! Avez-vous apprécié La Belle et la Bête ?
+",informal
+"Non ne ho uno preferito, ma ce ne sono diversi che mi piacciono. E a Lei?","Je n'en ai pas un préféré, mais il y en a plusieurs que j'aime bien. Et toi ?","Je n'ai pas de préférence, mais j'en apprécie certains. Et vous ?
+",informal
+"In qualche modo pensano che fermi i ladri. Posso solo supporre che tu possa mettere lanciafiamme ovunque sul tuo veicolo. In questo modo, se il ladro si avvicina alla porta, lo puoi dissuadere.","D'une certaine manière, ils pensent que ça empêche les voleurs. Je suppose que tu peux mettre des lance-flammes partout sur ton véhicule. Comme ça, si un voleur s'approche de la portière, tu peux le dissuader.","Ils pensent que, d'une certaine manière, ça repoussera les voleurs. Je présume que vous pouvez mettre des lance-flammes n'importe où sur votre véhicule. Ainsi, si le voleur s'approche de la porte, vous pouvez le dissuader.
+",informal
+"perché quelle risposte possono essere corrette, ma a volte non lo sono. Quindi questa è un'altra sfida. Ma anche un'altra opportunità per Lei di essere ancora più competente nell'insegnamento,","parce que ces réponses peuvent toujours être corrigées, mais parfois elles ne sont pas correctes. C'est une autre difficulté. Mais aussi une opportunité d'amélioration de ton enseignement,","parce que ces réponses peuvent toujours être corrigées, mais parfois elles ne sont pas correctes. C'est une autre difficulté. Mais aussi une opportunité d'amélioration de votre enseignement,
+",informal
+"Quando ce l'hai, quando hai un figlio di cui sei responsabile, devi organizzarti.","Quand tu en as un, quand tu as un enfant dont tu es responsable, tu dois t'organiser.","Quand vous le faites, quand vous avez un enfant à charge, vous devez vous y préparer.
+",informal
+"È una brava persona. Beh, devo andare, è stato bello parlare con te","C'est une bonne personne. Bon, je dois y aller, c'était sympa de parler avec toi","C'est une bonne personne. Je dois y aller, c'était chouette de discuter avec vous.
+",informal
+"sa, posso vedere come, quando Lei è in un processo in determinati tipi di situazioni legali. In realtà si tratta solo di sapere se Lei è disposto ad alzarsi affermando di sapere","Tu sais, je peux voir comment, quand t'es dans un processus dans certains types de situations légales. En fait, c'est juste une question de savoir si t'es prêt à te lever et à affirmer que tu sais.","vous savez que je peux connaître votre situation dans un procès dans certains types de situations juridiques. Ce qui compte, c'est de savoir jusqu'où vous êtes prêt à aller
+",informal
+"Eh sì,esattamente. Ok, ora dai anche un'occhiata ai miei negozi di moda dove fai acquisti?","Oui, exactement. Ok, maintenant jette aussi un coup d'œil à mes boutiques de mode où tu fais tes courses ?","Oui, exactement. Bon, maintenant jetez aussi un œil à mes boutiques de mode. Où faites-vous vos achats ?
+",informal
+Posso vedere se possiamo andare nel posto dove vedrai tutti i membri della tua famiglia.,Je peux voir si on peut aller à l'endroit où tu verras tous les membres de ta famille.,"Je vais vous donner la possibilité d'aller à un endroit où vous verrez tous les membres de votre famille.
+",informal
+"Ah, no, non sono mai stato capace di capire la poesia. È stato bello parlare con te, buon proseguimento di giornata!","Ah non, je n'ai jamais été doué pour comprendre la poésie. C'était sympa de discuter avec toi, bonne continuation de journée !","Ah, non, je n'ai jamais réussi à comprendre la poésie. C'était sympa de discuter avec vous, passez une bonne fin de journée !
+",informal
+"Non si è mai messo in contatto ed era tipo, non Le dispiacerà mai abbastanza","Il ne t'a jamais contactée et c'était genre, il ne s'excusera jamais assez auprès de toi","Il n'a jamais tendu la main et était plutôt du genre à dire « ne regrettez jamais de vous être mordu le bras ».
+",informal
+"Mi chiedo se quella persona si presenta anche a votare, o perché è nella giungla in quel modo ahah. Hai votato alle ultime elezioni?","Je me demande si cette personne va aussi voter, ou pourquoi elle est dans la jungle comme ça ahah. Tu as voté aux dernières élections ?","Je me demande si cette personne prend même la peine d'aller voter ou pourquoi il est dans la course, ah ah. Vous avez voté aux dernières élections ?
+",informal
+"Sì, lo so, giocavo molto con il Nintendo da piccolo. E Lei?","Oui, je sais, je jouais beaucoup à la Nintendo étant petit. Et toi ?","Oui, avant je jouais beaucoup à la Nintendo. Et vous ?
+",informal
+Questo è incredibile. Hai visto il film Blazing Saddles?,"C'est incroyable, tu as vu le film La Folle Escapade ?","C'est incroyable, vous avez vu le film Le shérif est en prison ?
+",informal
+"Chi è il suo attore preferito? Immagino, la stessa cosa.","Quel est ton acteur préféré ? J'imagine, la même chose.","Qui est votre acteur préféré ? Je suppose, c'est la même chose.
+",informal
+Di sicuro! Hai mai visto Big Hero 6?,Bien sûr ! As-tu déjà vu Big Hero 6 ?,"C'est clair ! Avez-vous déjà vu Big Hero 6 ?
+",informal
+Spero che anche Lei si diverta e che passi una buona giornata! Anche per me è stato bello chiacchierare con Lei!,J'espère que toi aussi tu t'amuses bien et que tu passes une bonne journée ! Pour moi aussi c'était sympa de discuter avec toi !,"J'espère que vous appréciez la vôtre également et que vous passez aussi une bonne journée ! C'était sympathique de discuter avec vous !
+",informal
+"Ok, tutto chiaro. Entra nel tuo appartamento o lasciali entrare. In modo che, sai, possa andare avanti per sempre. Guarda, non so quanto durerà","Ok, tout est clair. Entre dans ton appartement ou laisse-les entrer. De cette façon, tu sais, ça pourra continuer pour toujours. Écoute, je ne sais pas combien de temps ça va durer.","D'accord, tout est en ordre. Entrez dans votre appartement ou laissez-les entrer. Et ça, vous savez, ça dure pour toujours. Écoutez, je ne sais pas combien de temps cela va
+",informal
+"è più importante del lavoro, è più importante che avere un lavoro e una carriera perché la tua carriera finisce, la tua famiglia no. La tua famiglia va avanti, la tua stirpe si perpetua","La famille est plus importante que le travail, c'est plus important que d'avoir un emploi et une carrière car ta carrière finit un jour, mais pas ta famille. Ta famille continue, ta lignée se perpétue.","elle est plus importante que le travail, plus importante que d'avoir un travail et une carrière, parce que votre carrière s'arrête, mais votre famille non. Votre famille continue, votre lignée continuera
+",informal
+"L'ha capito. Quindi, se Martin era il suo spettacolo preferito da giovane, qual è il suo spettacolo preferito adesso?","Oui, je comprends. Donc, si Martin était ton émission préférée quand tu étais jeune, quelle est ton émission préférée maintenant ?","Vous avez compris. Donc, si Martin était votre émission préférée en grandissant, quelle est votre émission préférée maintenant ?
+",informal
+Davvero? Trovo che guidare nei videogiochi sia più difficile che guidare su strada con una macchina vera. Immagino come possa aiutarti con le tue abilità di guida.,Vraiment ? Je trouve que conduire dans les jeux vidéo est plus difficile que de conduire sur la route avec une vraie voiture. J'imagine que ça peut t'aider avec tes compétences de conduite.,"Vraiment ? Je trouve qu'il est plus difficile de conduire dans les jeux vidéo que dans la réalité. Je comprends en quoi cela peut vous aider à mieux conduire.
+",informal
+"Quindi Lei prende quella confezione che è arrivata, non può ricomprare la stessa cosa.","Donc tu prends ce colis qui est arrivé, tu ne peux pas racheter la même chose.","Donc, vous prenez cet emballage qui est arrivé, vous ne pouvez pas le racheter dans le même emballage.
+",informal
+Preferisco la melodia e l'armonia. Chi è il tuo artista preferito?,Je préfère la mélodie et l'harmonie. Qui est ton artiste préféré ?,"Je préfère la mélodie et l'harmonie. Quel est votre artiste préféré ?
+",informal
+"Compagnia aerea, posso cancellare il mio viaggio senza annullare? In che modo l'annullamento potrebbe influire sul suo lavoro ? Annullamento, ok vuole cancellare il suo viaggio? Se desidera cancellare il suo volo può contattarci via e-mail o telefono.","Compagnie aérienne, puis-je annuler mon voyage sans annulation ? Comment l'annulation pourrait-elle affecter ton travail ? Annulation, ok tu veux annuler ton voyage ? Si tu veux annuler ton vol, tu peux nous contacter par e-mail ou par téléphone.","compagnie aérienne, puis-je annuler mon voyage sans annuler ? Comment l'annulation pourrait-elle affecter votre travail ? Annulation, d'accord. Voulez-vous annuler votre voyage ? Si vous souhaitez annuler votre vol, vous pouvez nous contacter par e-mail ou par téléphone.
+",informal
+"Non si è mai messo in contatto ed era tipo, non ti dispiacerà mai abbastanza","Il ne t'a jamais contacté et c'était genre, tu ne seras jamais assez désolé","Il n'a jamais tendu la main et était plutôt du genre à dire « ne regrettez jamais de vous être mordu le bras ».
+",informal
+Giocavi con i Lego da piccolo?,As-tu joué aux Legos étant petit ?,"Avez-vous joué aux Legos étant petit ?
+",informal
+"ma era strano avere così tanto tempo nel tardo pomeriggio, sa e avere giornate lavorative complete.","Mais c'était bizarre d'avoir autant de temps libre en fin d'après-midi, tu sais, et d'avoir des journées de travail complètes.","mais c'était bizarre d'avoir autant de temps en fin d'après-midi, vous savez, tout en ayant vos journées de travail complètes.
+",informal
+"Ne sono al corrente. Ehi, cosa ne pensa di Morgan Freeman? Ho saputo solo poco tempo fa che aveva lavorato nella compagnia elettrica negli anni '70!","J'en suis au courant. Hé, que penses-tu de Morgan Freeman ? J'ai appris il n'y a pas longtemps qu'il avait travaillé dans une compagnie d'électricité dans les années 70 !","C'est ce que j'ai entendu aussi. Que  pensez-vous  de Morgan Freeman ? J'ai découvert récemment qu'il a joué dans The Electric Company dans les années 1970 !
+",informal
+Questo è un onore. Miami sarebbe la sua squadra essendo della Florida? Hanno avuto alcuni anni di gloria non molto tempo fa.,C'est un honneur. Miami serait ton équipe vu que tu es de Floride ? Ils ont connu quelques années de gloire il n'y a pas si longtemps.,"C'est un honneur. Comme vous venez de Floride, est-ce que Miami serait votre équipe ? Elle a vécu quelques années de gloire il n'y a pas si longtemps.
+",informal
+Non saprei. Ho visto solo il primo film. Ho sentito che Angela Bassett ha preso parte all'ultimo film. Mi piace molto. Quali sono i suoi attori protagonisti preferiti?,J'sais pas. J'ai vu que le premier film. J'ai entendu qu'Angela Bassett a joué dans le dernier film. J'l'aime beaucoup. C'est qui tes acteurs préférés ?,"Je n'en sais rien. Je n'ai vu que le premier film. J'ai entendu dire qu'Angela Bassett joue dans le dernier. J'aime vraiment bien cette actrice. Quelles autres vedettes présentes dans ce film sont vos préférées ?
+",informal
+"Sì, quello andrà bene. Che mi dici di Inception: l'hai visto?","Oui, ça ira. Que dis-tu d'Inception : tu l'as vu ?","Oui, cela ira. Et Inception, vous l'avez vu ?
+",informal
+Allora mi parli del suo migliore amico d'infanzia.,Alors parle-moi de ton meilleur ami d'enfance.,"Alors parlez-moi de votre meilleur ami d'enfance.
+",informal
+tua madre sembra sempre così,ta mère a toujours l'air comme ça,"votre mère paraît toujours si
+",informal
+Lui si arrabbierebbe e io sarei totalmente imbarazzato. Aah. Ha mai giocato a soccer baseball? I canadesi lo chiamano kickball.,Il serait furax et je serais bien embarrassé. Ah ah. As-tu déjà joué au soccer-baseball ? Les Canadiens appellent ce sport kickball.,"Il serait furax et je serais bien embarrassé. Ah ah. Avez-vous déjà joué au soccer-baseball ? Les Canadiens appellent ce sport kickball.
+",informal
+Si dice che questa è la faccia che fai quando scopri che la tua vita normale viene descritta da altri,On dit que c'est la tête que tu fais quand tu découvres que ta vie normale est décrite par d'autres,"Il a dit que c'est à cela que ressemble votre visage lorsque vous découvrez que votre vie normale est décrite par d'autres
+",informal
+Questo è incredibile. Ha visto il film Blazing Saddles?,"C'est incroyable, tu as vu le film Le shérif est en prison ?","C'est incroyable, vous avez vu le film Le shérif est en prison ?
+",informal
+"soprattutto perché immagino che, a differenza della sua famiglia, nel suo caso nessuno di noi segue davvero la stessa strada per così dire.","surtout parce que j'imagine que, contrairement à ta famille, dans ton cas, aucun d'entre nous ne suit vraiment le même chemin pour ainsi dire.","d'autant plus que je suppose que, contrairement à votre famille, dans son cas, aucun de nous ne suit vraiment le chemin pour ainsi dire.
+",informal
+"Era il mio soprannome! Non perché sono vecchio quanto Shakespeare... visto che era vivo ai tempi di Pocahontas, che è un po' più vecchia di me. Qual è la sua opinione su Shakespeare?","C'était mon surnom ! Pas parce que je suis vieux comme Shakespeare... puisqu'il vivait à l'époque de Pocahontas, qui est un peu plus âgée que moi. Qu'en penses-tu de Shakespeare ?","C'était mon surnom ! Pas parce que je suis aussi âgé que Shakespeare… étant donné qu'il vivait au temps de Pocahontas, ce qui remonte à loin. Que pensez-vous de Shakespeare ?
+",informal
+"Va bene, quindi, da consumatore, Lei se ne infischia di chi lo fa, chi ci guadagna, quante persone occupa, Lei vuole solo ottenere il miglior prezzo per sé.","Très bien, donc en tant que consommateur, tu t'en fiches de qui le fait, qui en profite, combien de personnes sont employées, tu veux juste obtenir le meilleur prix pour toi.","D'accord, en tant que consommateur, vous ne vous souciez pas vraiment de qui le fabrique, à qui il fait gagner de l'argent, qui il aide à employer... Vous voulez juste le payer au meilleur prix.
+",informal
+"Mi dispiace, sì, quindi è piuttosto interessante. Allora, qual è stata la tua esperienza all'estero?","Désolé, oui, c'est plutôt intéressant. Alors, qu'est-ce que tu as pensé de tes voyages à l'étranger ?","Je suis désolé, oui. Et c'est très intéressant. Alors, qu'avez-vous pensé de vos voyages à l'étranger ?
+",informal
+"Sì, esattamente. Ci sono scarpe ispirate al Mago di Oz che in realtà ti guidano a casa utilizzando un sistema GPS quando tu clicchi con i talloni.","Oui, exactement. Il existe des chaussures inspirées du Magicien d'Oz qui peuvent t'indiquer le chemin pour rentrer chez toi à l'aide d'un système GPS quand tu cliques des talons.","Oui, exactement. Il existe des chaussures inspirées du Magicien d'Oz qui peuvent vous indiquer le chemin pour rentrer chez vous à l'aide d'un système GPS lorsque vous tapez des talons.
+",informal
+"potresti solo vedere, potrebbe essere più una cosa dove tu torni a casa, i tuoi figli sono accuditi, dove sono stati","tu pourrais juste voir, ça pourrait être plus un truc où tu rentres chez toi, tes enfants sont gardés, où ils ont été","Cela pourrait davantage être quelque chose qui se passe lorsque vous rentrez à la maison, lorsque vos enfants sont pris en charge, lorsqu'ils ont été
+",informal
+"Sembra delizioso. Beh, è stato bello chiacchierare con te questo pomeriggio sul pesce. Spero che ti goda il resto del tuo venerdì!","Ça a l'air délicieux. Bah, c'était sympa de discuter avec toi cet après-midi à propos du poisson. J'espère que tu profiteras du reste de ta journée de vendredi !","Ça a l'air délicieux. Bon, c'était chouette de parler des poissons avec vous cet après-midi. Profitez du reste de votre vendredi !
+",informal
+Questo è un onore. Miami sarebbe la tua squadra essendo della Florida? Hanno avuto alcuni anni di gloria non molto tempo fa.,C'est un honneur. Miami serait ton équipe vu que tu es de Floride ? Ils ont connu quelques années de gloire il n'y a pas si longtemps.,"C'est un honneur. Comme vous venez de Floride, est-ce que Miami serait votre équipe ? Elle a vécu quelques années de gloire il n'y a pas si longtemps.
+",informal
+"nell'accedere al rimborso del biglietto, inserisci il tuo PIN, il nome del passeggero e aggiungi il numero del tuo biglietto. I passeggeri sono autorizzati a effettuare la cancellazione.","Pour obtenir le remboursement de ton billet, entre ton code PIN, le nom du passager et ajoute le numéro de ton billet. Les passagers sont autorisés à effectuer l'annulation.","lors de l'accès au remboursement du billet, saisissez votre code PIN, votre numéro de dossier passager et votre numéro de billet. Nous autorisons les passagers à annuler.
+",informal
+"Quali sono i suoi film preferiti, quali sono gli altri suoi film preferiti e/o i suoi film dell'anno?","Quels sont tes films préférés, tes autres films préférés et/ou tes films de l'année ?","Quels sont vos films préférés, quels sont vos autres films préférés et/ou les films que vous avez préférés cette année ?
+",informal
+"È interessato ai cani? Sono molto intelligenti. Inoltre, possono imparare più di mille parole e ragionare meglio degli scimpanzé.","Es-tu intéressé par les chiens ? Ils sont très intelligents. De plus, ils peuvent apprendre plus de mille mots et raisonner mieux que les chimpanzés.","Êtes-vous intéressé par les chiens ? Ils sont très intelligents. Les chiens peuvent apprendre plus de mille mots et raisonner mieux que des chimpanzés.
+",informal
+"Wow, è impressionante! Hai capito che gli aerei viaggiano il 10% più lentamente al giorno d'oggi? Lo fanno per risparmiare carburante, ma così giungi anche più lentamente a destinazione","Wow, c'est impressionnant ! Savais-tu que les avions voyagent 10% plus lentement de nos jours ? Ils le font pour économiser du carburant, mais du coup tu arrives aussi plus lentement à destination.","Waouh c'est impressionnant ! Saviez-vous que les avions voyagent 10 % plus lentement ces temps-ci ? C'est pour économiser du carburant, mais vous arrivez à destination plus lentement
+",informal
+"Non ne ho uno preferito, ma ce ne sono diversi che mi piacciono. E a te?","Je n'en ai pas un préféré, mais il y en a plusieurs que j'aime bien. Et toi ?","Je n'ai pas de préférence, mais j'en apprécie certains. Et vous ?
+",informal
+"In qualche modo pensano che fermi i ladri. Posso solo supporre che Lei possa mettere lanciafiamme ovunque sul suo veicolo. In questo modo, se il ladro si avvicina alla porta, lo può dissuadere.","D'une certaine manière, ils pensent que ça arrête les voleurs. Je suppose que tu peux placer des lance-flammes partout sur ton véhicule. Comme ça, si un voleur s'approche de la portière, tu peux le dissuader.","Ils pensent que, d'une certaine manière, ça repoussera les voleurs. Je présume que vous pouvez mettre des lance-flammes n'importe où sur votre véhicule. Ainsi, si le voleur s'approche de la porte, vous pouvez le dissuader.
+",informal
+Basta conoscere questo fatto ormai. Quale partito pensi che vincerà le prossime elezioni presidenziali?,"C'est suffisant comme ça. Selon toi, quel parti va gagner les prochaines élections présidentielles ?","J'en suis sûr maintenant. Quel parti va gagner aux prochaines élections présidentielles, selon vous ?
+",informal
+"Ah, bello! Dovrebbe andarci più spesso allora, hehe. Ha visto l'ultimo de La bella e la bestia?","Ah, chouette ! Tu devrais y aller plus souvent alors, hehe. As-tu vu le dernier La Belle et la Bête ?","Ah super ! Vous devriez y aller plus souvent alors, ah ah. Avez-vous vu le tout dernier film La Belle et la Bête ?
+",informal
+"L'hai capito. Quindi, se Martin era il tuo spettacolo preferito da giovane, qual è il tuo spettacolo preferito adesso?","Tu as bien compris. Donc, si Martin était ton émission préférée quand tu étais jeune, quelle est ton émission préférée maintenant ?","Vous avez compris. Donc, si Martin était votre émission préférée en grandissant, quelle est votre émission préférée maintenant ?
+",informal
+"Sì, lo capisco, la gente vuole ritagliarsi la propria identità. Il jazz è piuttosto vasto. Potrebbe trovare qualcosa che Le piace.","Oui, je comprends ! Les gens veulent bâtir leur propre identité. Le jazz, c'est assez énorme. Tu devrais y trouver ton compte.","Oui, je comprends ! Les gens veulent bâtir leur propre identité. Le jazz, c'est assez énorme. Vous devriez y trouver votre compte.
+",informal
+"Sì, ma questa è la tua opinione sul film. Là fuori ci sono sicuramente persone così e tutto questo non ha senso. È qualcosa come credere negli alieni","Oui, mais c'est ton avis sur le film. Il y a sûrement des gens comme ça dans le monde réel et tout ça n'a pas de sens. C'est un peu comme croire aux extraterrestres.","Oui, mais c'est votre point de vue sur le film. Il y a certainement des gens qui sont comme ça et ça n'a pas de sens. C'est un peu comme si je croyais aux extraterrestres
+",informal
+sua madre sembra sempre così,ta mère a toujours l'air comme ça,"votre mère paraît toujours si
+",informal
+"cosa? Dimmi com'è la vita. E a lui ho detto, ascolta, non funzionerà. E ho detto, fammi il favore. Non tornare al tuo","quoi ? Dis-moi à quoi ressemble ta vie. Et je lui ai dit, écoute, ça ne marchera pas. Et j'ai dit, fais-moi une faveur. Ne retourne pas chez toi}
+
+Cette traduction utilise un style informel avec le tutoiement (""ta vie"", ""fais","comme quoi ? Dites-moi à quoi ressemble la vie. Et je lui ai dit, écoutez, ça ne marchera pas. Et j'ai dit, faites-moi une faveur. Ne retournez pas dans votre
+",informal
+"Bene, San Diego sarà più calda che temperata. Veramente? C'è un significato dietro? O significa che non dovresti chiamare tuo figlio col nome di una band?","Bien, San Diego sera plus chaude que tempérée. Vraiment ? Il y a une signification derrière ? Ou ça veut dire que tu ne devrais pas appeler ton fils du nom d'un groupe de musique ?","Il fait très chaud à San Diego, non ? Faut-il y voir un double sens ? Ou est-ce que cela signifie que vous ne devez pas donner un nom de groupe de musique à votre enfant ?
+",informal
+"Sì, hai ragione. Pensi che il suo licenziamento sia stato giusto visto che si era scusato prima?","Oui, tu as raison. Penses-tu que son licenciement était justifié étant donné qu'il s'était excusé auparavant ?","Oui, vous avez raison. Pensez-vous que son éviction était justifiée puisqu'il s'était excusé ?
+",informal
+"Di sicuro, ahah. È stato bello parlare con Lei, saluti i suoi gatti da parte mia!","C'est sûr, ahah. C'était sympa de discuter avec toi, fais un câlin à tes chats de ma part !","C'est sûr, ah ah. C'était sympa de discuter avec vous, dites bonjour à vos chats de ma part !
+",informal
+"È una brava persona. Beh, devo andare, è stato bello parlare con Lei","C'est une bonne personne. Bon, je dois y aller, c'était sympa de discuter avec toi}
+
+La traduction utilise le tutoiement ""toi"" pour conférer un style informel à la phrase.","C'est une bonne personne. Je dois y aller, c'était chouette de discuter avec vous.
+",informal
+Che bei cani! Tu vivi con i tuoi cani in un clima nordico?,Quels beaux chiens ! Tu vis avec tes chiens dans un climat nordique ?,"Quels chiens magnifiques ! Est-ce que vous et vos chiens vivez dans un climat nordique ?
+",informal
+"Anch'io, cosa ne pensi di Fox News? A quanto pare sono più seguiti di msnbc e cnn messi insieme.","Moi aussi, que penses-tu de Fox News ? Apparemment, ils sont plus suivis que msnbc et cnn réunis.","Moi aussi. Que pensez-vous de Fox News ? Apparemment, la chaîne est plus regardée que MSNBC et CNN réunis.
+",informal
+Questo è vero. Ha sentito di quella volta nel 1957 quando Truman rifiutò di farsi fotografare con Dumbo?,C'est vrai. As-tu entendu parler de cette fois en 1957 quand Truman a refusé de se faire prendre en photo avec Dumbo ?,"C'est vrai. Avez-vous entendu parler de cet événement en 1957, lorsque Trump a refusé d'être photographié avec Dumbo ?
+",informal
+"Sì, ha ragione. Pensa che il suo licenziamento sia stato giusto visto che si era scusato prima?","Oui, tu as raison. Penses-tu que son licenciement était justifié étant donné qu'il s'était excusé auparavant ?","Oui, vous avez raison. Pensez-vous que son éviction était justifiée puisqu'il s'était excusé ?
+",informal
+Forse il trucco può davvero trasformarti in quasi chiunque,Peut-être que le maquillage peut vraiment te transformer en presque n'importe qui,"Certainement, avec du maquillage, vous pouvez vraiment vous transformer en quelqu'un d'autre.
+",informal
+"Esattamente. Finga di aver bisogno di scappare dal terrore. Ahahah. Allora, Le piace Internet? O è la rovina della sua esistenza?","Exactement. Fais comme si tu avais besoin de fuir la terreur. Ahahah. Alors, aimes-tu Internet ? Ou est-ce la ruine de ton existence ?","Exactement. Faites semblant de devoir vous éloigner de l'horreur à vélo. LOL Bon, aimez-vous Internet ? Ou est-ce le fléau de votre existence ?
+",informal
+La dieta è comunque la maggior parte del tuo problema.,L'alimentation est quand même la majeure partie de ton problème.,"De toute façon, le problème se trouve dans votre alimentation.
+",informal
+"Chi è il suo attore preferito? Immagino, la stessa cosa.","Quel est ton acteur préféré ? J'imagine, la même chose.","Qui est votre acteur préféré ? Je suppose, c'est la même chose.
+",informal
+"Sì, ma questa è la sua opinione sul film. Là fuori ci sono sicuramente persone così e tutto questo non ha senso. È qualcosa come credere negli alieni","Oui, mais c'est ton avis sur le film. Il y a sûrement des gens comme ça dans le monde et tout ça n'a aucun sens. C'est un peu comme croire aux extraterrestres.","Oui, mais c'est votre point de vue sur le film. Il y a certainement des gens qui sont comme ça et ça n'a pas de sens. C'est un peu comme si je croyais aux extraterrestres
+",informal
+"è stato un viaggio divertente, quali sono i suoi ricordi più belli di quel viaggio?",C'était un voyage amusant. Quels sont tes meilleurs souvenirs de ce voyage ?,"c'était un voyage amusant. Quels sont vos meilleurs souvenirs de ce voyage ?
+",informal
+Lui si arrabbierebbe e io sarei totalmente imbarazzato. Aah. Ha mai giocato a soccer baseball? I canadesi lo chiamano kickball.,Il serait furax et je serais bien embarrassé. Ah ah. As-tu déjà joué au soccer-baseball ? Les Canadiens appellent ce sport kickball.,"Il serait furax et je serais bien embarrassé. Ah ah. Avez-vous déjà joué au soccer-baseball ? Les Canadiens appellent ce sport kickball.
+",informal
+"Sì. Beh, è stato bello chiacchierare con te. Buona giornata.","Oui. Eh bien, c'était sympa de discuter avec toi. Bonne journée.","Ouaip. Cela m'a fait plaisir de discuter avec vous en tout cas. Je vous souhaite une bonne journée.
+",informal
+ciò non significa che non ci sia un senso di comunanza con le tue esperienze lavorative.,ça ne veut pas dire qu'il n'y a pas un sentiment de connexion avec tes expériences professionnelles.,"cela ne veut pas dire qu'il n'y a pas du tout de points communs dans vos expériences de travail.
+",informal
+"nell'accedere al rimborso del biglietto, inserisca il suo PIN, il nome del passeggero e aggiunga il numero del suo biglietto. I passeggeri sono autorizzati a effettuare la cancellazione.","Pour accéder au remboursement du billet, entre ton code PIN, le nom du passager et ajoute le numéro de ton billet. Les passagers sont autorisés à effectuer l'annulation.","lors de l'accès au remboursement du billet, saisissez votre code PIN, votre numéro de dossier passager et votre numéro de billet. Nous autorisons les passagers à annuler.
+",informal
+"Sì. Beh, è stato bello chiacchierare con Lei. Buona giornata.","Oui. Eh bien, c'était sympa de discuter avec toi. Passe une bonne journée.","Ouaip. Cela m'a fait plaisir de discuter avec vous en tout cas. Je vous souhaite une bonne journée.
+",informal
+"Idem. Cerchi di rendere perfetta questa giornata, comunque vada.","Pareil. Essaie de rendre cette journée parfaite, quoi qu'il arrive.","Pareil. Essayez de passer une journée parfaite, à votre manière.
+",informal
+ciò non significa che non ci sia un senso di comunanza con le sue esperienze lavorative.,cela ne veut pas dire qu'il n'y a pas un sens de communion avec tes expériences professionnelles.,"cela ne veut pas dire qu'il n'y a pas du tout de points communs dans vos expériences de travail.
+",informal
+"Penso solo perché, in termini di specie, come hai detto tu, gli umani si sono (sviluppati). Probabilmente sembrava un po' strano. Pensi tuo...","Je pense juste que, en termes d'espèces, comme tu l'as dit, les humains se sont (développés). Ça devait probablement avoir l'air un peu étrange. Tu penses que...","Je pense que c'est simplement parce que, en termes d'espèces, comme vous l'avez dit, les humains sont (développés). Cela avait probablement l'air un peu étrange. Vous pensez que votre
+",informal
+"perché non è che tu stia occupando il tempo di qualcuno che potrebbe invece passare a vendere a te. I clienti seri, non quelli che cercano semplicemente di farsi truccare gratis.","parce que ce n'est pas le cas, tu fais perdre du temps à quelqu'un qui est là pour vendre à des clients sérieux, pas quelqu'un qui essaie juste de se maquiller gratuitement.","parce que ce n'est pas le cas, vous faites perdre du temps à quelqu'un qui est là pour vendre à des clients sérieux, pas quelqu'un qui essaie juste de se maquiller gratuitement.
+",informal
+"Sì, sono forti, sa cosa intendo?","Oui, ils sont forts, tu vois ce que je veux dire ?","Oui, ils sont cool, vous voyez ce que je veux dire ?
+",informal
+"Ehi, ha sentito parlare dei Razzie Awards? Sembra che premino i peggiori film dell'anno!","Bonjour. As-tu déjà entendu parler des Razzie Awards ? Apparemment, ils récompensent les plus mauvais films de l'année !","Bonjour. Avez-vous déjà entendu parler des Razzie Awards ? Apparemment, ils récompensent les plus mauvais films de l'année !
+",informal
+"Sì, lo capisco, la gente vuole ritagliarsi la propria identità. Il jazz è piuttosto vasto. Potresti trovare qualcosa che ti piace.","Oui, je comprends ! Les gens veulent bâtir leur propre identité. Le jazz, c'est assez énorme. Tu devrais y trouver ton compte.","Oui, je comprends ! Les gens veulent bâtir leur propre identité. Le jazz, c'est assez énorme. Vous devriez y trouver votre compte.
+",informal
+"Di sicuro, ahah. È stato bello parlare con te, saluta i tuoi gatti da parte mia!","C'est sûr, ahah. C'était sympa de parler avec toi, fais un câlin à tes chats de ma part !","C'est sûr, ah ah. C'était sympa de discuter avec vous, dites bonjour à vos chats de ma part !
+",informal
+"La salute di suo padre è generalmente piuttosto buona, è la sua mente che soffre, oppure ha, se ha l'Alzheimer, so che questo influisce anche su di Lei in altri modi,","La santé de ton père est généralement plutôt bonne, c'est son esprit qui souffre, ou s'il a la maladie d'Alzheimer, je sais que cela t'affecte aussi d'autres façons,","La santé de son père est assez bonne, c'est son esprit qui souffre. S'il a la maladie d'Alzheimer, je sais que cela affecte votre corps aussi de différentes manières,
+",informal
+Hai mai avuto un attacco epilettico? Non posso credere che qualcuno abbia avuto un attacco epilettico allo spettacolo comico di Ken Jeong!,As-tu déjà fait une crise d'épilepsie ? Je n'arrive pas à croire que quelqu'un ait fait une crise pendant le spectacle comique de Ken Jeong !,"Avez-vous déjà fait un malaise ? C'est incroyable que quelqu'un ait eu un malaise au spectacle de Ken Jeong !
+",informal
+"Sì, è fantastico, ahah. Cosa ne pensi del fatto che Vin Diesel abbia ricevuto una sceneggiatura segreta che dice ciò di cui Groot sta effettivamente parlando nei film?","Oui, c'est génial, ahah. Qu'en penses-tu du fait que Vin Diesel ait reçu un script secret expliquant ce que Groot dit réellement dans les films ?","Oui, c'est cool, ah ah. Que pensez-vous de cette rumeur selon laquelle Vin Diesel aurait reçu un script secret révélant ce que dit Groot dans les films ?
+",informal
+"Davvero, sono in Florida, abbiamo le nostre zone. Ma la guida autonoma fa paura! Dato che tu vivi al freddo, perché sarebbe illegale riscaldare la tua auto in Ohio?","Vraiment, je suis en Floride, on a nos propres zones. Mais la conduite autonome fait peur ! Puisque tu vis dans le froid, pourquoi ce serait illégal de faire chauffer ta voiture dans l'Ohio ?","C'est vrai, j'habite en Floride, nous avons nos propres régions. Mais les voitures autonomes font peur ! Comme vous vivez dans le froid, pourquoi serait-ce illégal de réchauffer votre voiture dans l'Ohio ?
+",informal
+Si dice che questa è la faccia che Lei fa quando scopre che la sua vita normale viene descritta da altri,On dit que c'est la tête que tu fais quand tu découvres que ta vie normale est décrite par d'autres,"Il a dit que c'est à cela que ressemble votre visage lorsque vous découvrez que votre vie normale est décrite par d'autres
+",informal
+Non posso nemmeno immaginare di lavorare così duramente per un ruolo e non ottenerlo! Ho guardato Ironman fino alla fine. E Lei?,Je ne peux même pas imaginer travailler si dur pour un rôle et ne pas l'obtenir ! J'ai regardé Ironman jusqu'à la fin. Et toi ?,"Je ne peux même pas concevoir de travailler aussi dur pour un rôle et ne pas l'obtenir ! J'ai regardé Iron Man d'une traite. Et vous ?
+",informal
+Sono disposti a partecipare a quella parte della tua vita.,Ils sont prêts à faire partie de ce moment de ta vie.,"Sont-ils prêts à prendre part à cette partie de votre vie.
+",informal
+"Non credo ci sia davvero niente di sbagliato in questo. Ma se Le dicessi che sta danneggiando l'economia, questo cambierebbe la sua opinione? E non sto dicendo che sia così","Je ne pense pas qu'il y ait vraiment quelque chose de mal là-dedans. Mais si je te disais que ça nuit à l'économie, est-ce que ça changerait ton avis ? Et je ne dis pas que c'est le cas.","Je ne pense pas qu'il y ait vraiment quelque chose de mal à cela. Mais, si je vous disais que cela fait du mal à l'économie, cela vous ferait-il changer d'avis ? Et je ne dis pas que c'est le cas
+",informal
+Non lo sapevo. Non guardo i Simpson. So che la CNN si lamenta perché non riesce ad avere ospiti conservatori. Perché mai uno dovrebbe andare al loro spettacolo a farsi maltrattatare.,"Je ne le savais pas. Je ne regarde pas les Simpsons. Je sais que CNN se plaint, car ils n'arrivent pas à avoir d'invités conservateurs. Mais pourquoi voudrais-tu participer à l'une de leurs émissions pour te faire chahuter ?","Je ne le savais pas. Je ne regarde pas les Simpsons. Je sais que CNN se plaint, car ils n'arrivent pas à avoir d'invités conservateurs. Mais pourquoi voudriez-vous participer à l'une de leurs émissions pour vous faire chahuter ?
+",informal
+TZ non si smentisce mai. Ha visto il film Revenant - Redivivo? Era un film del 1971 sulla sopravvivenza nelle aree disabitate. Leo ha fatto un ottimo lavoro.,TZ ne se dément jamais. As-tu vu le film Revenant sorti en 1971 sur la survie dans les zones sauvages ? Leo a fait un excellent travail.,"J'aime bien La Quatrième Dimension. Avez-vous vu le film The Revenant ? C'est à la base un film de 1971 sur la survie dans la nature. Leo a fait un excellent travail.
+",informal
+Davvero? Trovo che guidare nei videogiochi sia più difficile che guidare su strada con una macchina vera. Immagino come possa aiutarLa con le sue abilità di guida.,Vraiment ? Je trouve que conduire dans les jeux vidéo est plus difficile que conduire sur la route avec une vraie voiture. J'imagine comment ça pourrait t'aider avec tes compétences de conduite.,"Vraiment ? Je trouve qu'il est plus difficile de conduire dans les jeux vidéo que dans la réalité. Je comprends en quoi cela peut vous aider à mieux conduire.
+",informal
+"ma ho capito come si sente riguardo al suo rapporto con loro. È come se Lei si sentisse in obbligo, ritiene che la sua relazione","Mais j'ai compris comment tu te sens par rapport à ta relation avec eux. C'est comme si tu te sentais obligé, tu penses que ta relation","mais j'ai compris ce que vous pensez de votre relation avec eux. C'est comme si vous aviez une relation et que vous pensiez qu'elle
+",informal
+Non può sfuggire alla sua dipendenza nemmeno in cima all'Everest. sulla sommità ci sono un servizio di dati mobili 3G e funzionalità Internet!,Il n'est même pas possible d'échapper à ton addiction au sommet de l'Everest. Il y a la 3G et Internet là-haut !,"Il n'est même pas possible d'échapper à votre addiction au sommet de l'Everest. Il y a la 3G et Internet là-haut !
+",informal
+"È così, semplicemente. Quali sono le aspirazioni dei suoi genitori per Lei?","C'est comme ça, simplement. Quelles sont les aspirations de tes parents pour toi ?","C'est ainsi. Qu'est-ce que vos parents voudraient que vous deveniez ?
+",informal
+Questo è un po' sorprendente. Avrei pensato al gran premio o a qualcosa del genere.... Scommetto che Logic ti batterebbe a Mario Kart!,C'est un peu surprenant. J'aurais pensé au Grand Prix ou quelque chose comme ça.... Je parie que Logic te battrait à Mario Kart !,"C'est un peu surprenant. J'ai plutôt pensé à Grand Prix ou quelque chose comme cela… Je parie que Logic pourrait vous battre à Mario Kart !
+",informal
+"Non credo ci sia davvero niente di sbagliato in questo. Ma se ti dicessi che sta danneggiando l'economia, questo cambierebbe la tua opinione? E non sto dicendo che sia così","Je ne pense pas qu'il y ait vraiment quelque chose de mal à cela. Mais si je te disais que ça nuit à l'économie, est-ce que ça changerait ton avis ? Et je ne dis pas que c'est le cas.","Je ne pense pas qu'il y ait vraiment quelque chose de mal à cela. Mais, si je vous disais que cela fait du mal à l'économie, cela vous ferait-il changer d'avis ? Et je ne dis pas que c'est le cas
+",informal
+"Oh così Lacoste era l'inventore, davvero interessante. Hai sentito del funerale di Bill Mays?","Oh, donc Lacoste était l'inventeur, vraiment intéressant. As-tu entendu parler des funérailles de Bill Mays ?","Donc Lacoste était l'inventeur, c'est très intéressant. Avez-vous entendu parler des funérailles de Bill May ?
+",informal
+"Anch'io, cosa ne pensa di Fox News? A quanto pare sono più seguiti di msnbc e cnn messi insieme.","Moi aussi. Que penses-tu de Fox News ? Apparemment, la chaîne est plus regardée que MSNBC et CNN réunis.","Moi aussi. Que pensez-vous de Fox News ? Apparemment, la chaîne est plus regardée que MSNBC et CNN réunis.
+",informal
+Conosco qualcuno che ha lavorato da Bubba Gump. È stato un piacere chiacchierare con Lei!,Je connais quelqu'un qui a travaillé chez Bubba Gump. C'était sympa de discuter avec toi !,"Je sais, entre autres, qu'il a travaillé chez Bubba Gump. Discuter avec vous fut un plaisir !
+",informal
+"andare allo zoo, Lei sa cosa intendo","aller au zoo, tu vois ce que je veux dire","oui, aller au zoo, vous voyez ce que je veux dire
+",informal
+"deve insegnare loro valori come provare cose diverse, capisce cosa intendo?","Tu dois leur apprendre des valeurs comme essayer de nouvelles choses, tu vois ce que je veux dire ?","vous devez leur enseigner des valeurs comme essayer et persévérer, vous voyez ce que je veux dire ?
+",informal
+"wow, sarebbe una rovina per la tua squadra! Era uno Yankee all'epoca o un Red Sox, non ricordo?","wow, ce serait une vraie catastrophe pour ton équipe ! C'était un Yankee à l'époque ou un Red Sox, je ne me souviens plus ?","Waouh, c'est tellement dur pour votre équipe ! Est-ce qu'il faisait partie des Yankees à l'époque ou des Red Sox ? Je ne me rappelle pas
+",informal
+"potrebbe solo vedere, potrebbe essere più una cosa dove Lei torna a casa, i suoi figli sono accuditi, dove sono stati","tu pourrais juste voir, ça pourrait être plus une situation où tu rentres chez toi, tes enfants sont gardés, où ils ont été","Cela pourrait davantage être quelque chose qui se passe lorsque vous rentrez à la maison, lorsque vos enfants sont pris en charge, lorsqu'ils ont été
+",informal
+Basta conoscere questo fatto ormai. Quale partito pensa che vincerà le prossime elezioni presidenziali?,"C'est bon, on sait déjà ça. Selon toi, quel parti va gagner les prochaines élections présidentielles ?","J'en suis sûr maintenant. Quel parti va gagner aux prochaines élections présidentielles, selon vous ?
+",informal
+Conosco qualcuno che ha lavorato da Bubba Gump. È stato un piacere chiacchierare con te!,Je connais quelqu'un qui a travaillé chez Bubba Gump. C'était sympa de discuter avec toi !,"Je sais, entre autres, qu'il a travaillé chez Bubba Gump. Discuter avec vous fut un plaisir !
+",informal
+Di sicuro! Ha mai visto Big Hero 6?,Bien sûr ! As-tu déjà vu Big Hero 6 ?,"C'est clair ! Avez-vous déjà vu Big Hero 6 ?
+",informal
+Non saprei. Ho visto solo il primo film. Ho sentito che Angela Bassett ha preso parte all'ultimo film. Mi piace molto. Quali sono i tuoi attori protagonisti preferiti?,Je ne saurais pas. J'ai vu seulement le premier film. J'ai entendu qu'Angela Bassett a joué dans le dernier film. Je l'aime beaucoup. Quels sont tes acteurs principaux préférés ?,"Je n'en sais rien. Je n'ai vu que le premier film. J'ai entendu dire qu'Angela Bassett joue dans le dernier. J'aime vraiment bien cette actrice. Quelles autres vedettes présentes dans ce film sont vos préférées ?
+",informal
+"Sì, sono forti, sai cosa intendo?","Ouais, ils sont forts, tu vois ce que je veux dire ?","Oui, ils sont cool, vous voyez ce que je veux dire ?
+",informal
+"Sì, e nella maggior parte dei posti in cui viaggi puoi comunque accedere al tuo account, dato che è disponibile nei paesi tranne Cina, Siria, Corea del Nord e Crimea.","Oui, et dans la plupart des endroits où tu voyages, tu peux quand même accéder à ton compte, puisqu'il est disponible dans tous les pays sauf la Chine, la Syrie, la Corée du Nord et la Crimée.","Oui et vous pouvez toujours accéder à votre compte dans la plupart des destinations puisqu'il est disponible partout sauf en Chine, en Syrie, en Corée du Nord et en Crimée.
+",informal
+Non puoi sfuggire alla tua dipendenza nemmeno in cima all'Everest. Sulla sommità ci sono un servizio di dati mobili 3G e funzionalità Internet!,Il n'est même pas possible d'échapper à ton addiction au sommet de l'Everest. Il y a la 3G et Internet là-haut !,"Il n'est même pas possible d'échapper à votre addiction au sommet de l'Everest. Il y a la 3G et Internet là-haut !
+",informal
+TZ non si smentisce mai. Hai visto il film Revenant - Redivivo? Era un film del 1971 sulla sopravvivenza nelle aree disabitate. Leo ha fatto un ottimo lavoro.,TZ ne se dément jamais. As-tu vu le film Revenant - Redivivo ? C'était un film de 1971 sur la survie dans les zones sauvages. Leo a fait un excellent travail.,"J'aime bien La Quatrième Dimension. Avez-vous vu le film The Revenant ? C'est à la base un film de 1971 sur la survie dans la nature. Leo a fait un excellent travail.
+",informal
+Spero che anche tu ti  diverta e che passi una buona giornata! Anche per me è stato bello chiacchierare con te!,"J'espère que toi aussi tu t'amuses bien et que tu passes une bonne journée ! Pour moi aussi, c'était sympa de discuter avec toi !","J'espère que vous appréciez la vôtre également et que vous passez aussi une bonne journée ! C'était sympathique de discuter avec vous !
+",informal
+"Compagnia aerea, posso cancellare il mio viaggio senza annullare? In che modo l'annullamento potrebbe influire sul tuo lavoro ? Annullamento, ok vuoi cancellare il tuo viaggio? Se desideri cancellare il tuo volo puoi contattarci via e-mail o telefono.","Compagnie aérienne, je peux annuler mon voyage sans annuler ? Comment l'annulation pourrait affecter ton travail ? Annulation, ok tu veux annuler ton voyage ? Si tu veux annuler ton vol, tu peux nous contacter par email ou par téléphone.","compagnie aérienne, puis-je annuler mon voyage sans annuler ? Comment l'annulation pourrait-elle affecter votre travail ? Annulation, d'accord. Voulez-vous annuler votre voyage ? Si vous souhaitez annuler votre vol, vous pouvez nous contacter par e-mail ou par téléphone.
+",informal
+"Davvero, sono in Florida, abbiamo le nostre zone. Ma la guida autonoma fa paura! Dato che Lei vive al freddo, perché sarebbe illegale riscaldare la sua auto in Ohio?","Vraiment, je suis en Floride, on a nos propres régions. Mais la conduite autonome fait peur ! Puisque tu vis dans le froid, pourquoi serait-il illégal de réchauffer ta voiture dans l'Ohio ?","C'est vrai, j'habite en Floride, nous avons nos propres régions. Mais les voitures autonomes font peur ! Comme vous vivez dans le froid, pourquoi serait-ce illégal de réchauffer votre voiture dans l'Ohio ?
+",informal
+"Anche a me non piaceva la serie, amavo Seinfeld e Frasier, non ho mai guardato Friends fino a quando non sono iniziate le repliche. Il mio programma preferito in tv è Criminal Minds, qual è il tuo?","Je n'ai pas aimé le spectacle non plus. J'ai adoré Seinfeld et Frasier, et je n'ai jamais regardé Friends avant les rediffusions. Ma série préférée est Criminal Minds, et toi, quelle est la tienne ?","Je n'ai pas aimé le spectacle non plus. J'ai adoré Seinfeld et Frasier, et je n'ai jamais regardé Friends avant les rediffusions. Ma série préférée est Criminal Minds, et vous, quelle est la vôtre ?
+",informal
+"Va bene, quindi, da consumatore, tu te ne infischi di chi lo fa, chi ci guadagna, quante persone occupa, tu vuoi solo ottenere il miglior prezzo per te.","Très bien, donc en tant que consommateur, tu t'en fiches de qui le fait, qui en profite, combien de personnes sont employées, tu veux juste obtenir le meilleur prix pour toi.","D'accord, en tant que consommateur, vous ne vous souciez pas vraiment de qui le fabrique, à qui il fait gagner de l'argent, qui il aide à employer... Vous voulez juste le payer au meilleur prix.
+",informal
+"È davvero un sacco di roba. Ti piacciono altri film d'azione come Jurassic World? Jurassic Park mi è piaciuto tanto, quindi ero titubante quando hanno annunciato Jurassic World.","C'est beaucoup de travail. Aimes-tu d'autres films d'action, comme Jurassic World ? J'ai adoré Jurassic Park, alors je ne savais pas quoi penser quand Jurassic World a été annoncé.","C'est beaucoup de travail. Aimez-vous d'autres films d'action, comme Jurassic World ? J'ai adoré Jurassic Park, alors je ne savais pas quoi penser quand Jurassic World a été annoncé.
+",informal
+"Mi piace il baseball, ma non ho una squadra preferita. E tu?","J'aime le baseball, mais je n'ai pas d'équipe préférée. Et toi ?","J'aime le baseball, mais je n'ai pas vraiment d'équipe préférée. Et vous ?
+",informal
+Questo è un po' sorprendente. Avrei pensato al gran premio o a qualcosa del genere.... Scommetto che Logic La batterebbe a Mario Kart!,C'est un peu surprenant. J'aurais pensé au grand prix ou un truc du genre... Je parie que Logic te battrait à Mario Kart !,"C'est un peu surprenant. J'ai plutôt pensé à Grand Prix ou quelque chose comme cela… Je parie que Logic pourrait vous battre à Mario Kart !
+",informal
+"Quindi tu prendi quella confezione che è arrivata, non puoi ricomprare la stessa cosa.","Donc tu prends ce colis qui est arrivé, tu ne peux pas racheter la même chose.","Donc, vous prenez cet emballage qui est arrivé, vous ne pouvez pas le racheter dans le même emballage.
+",informal
+"Beh, immagino che tu ce l'abbia nel sangue allora.","Eh bien, je suppose que c'est simplement dans ton sang alors.","Eh bien, je suppose que c'est simplement dans votre sang alors.
+",informal
+"è più importante del lavoro, è più importante che avere un lavoro e una carriera perché la sua carriera finisce, la sua famiglia no. La sua famiglia va avanti, la sua stirpe si perpetua","C'est plus important que le travail, c'est plus important que d'avoir un boulot et une carrière parce que ta carrière finit, ta famille non. Ta famille continue, ta lignée se perpétue","elle est plus importante que le travail, plus importante que d'avoir un travail et une carrière, parce que votre carrière s'arrête, mais votre famille non. Votre famille continue, votre lignée continuera
+",informal
+"Ma se tu, se uno si prende il tempo per guardare, allora sarà come... Oh, okay, sì, nessun problema, ma se tu non hai guardato allora io posso dirtelo.","Mais si tu, si on prend le temps de regarder, alors ce sera comme... Oh, ok, pas de problème, mais si tu n'as pas regardé alors je peux te le raconter.","Mais si vous, si la personne prend le temps de regarder, elle se dira : « Ah, d'accord, oui, pas de problème », mais si vous n'avez pas regardé, je peux vous le dire.
+",informal
+"perché non è che Lei stia occupando il tempo di qualcuno che potrebbe invece passare a vendere a Lei. I clienti seri, non quelli che cercano semplicemente di farsi truccare gratis.","parce que ce n'est pas le cas, tu fais perdre du temps à quelqu'un qui est là pour vendre à des clients sérieux, pas quelqu'un qui essaie juste de se maquiller gratuitement.","parce que ce n'est pas le cas, vous faites perdre du temps à quelqu'un qui est là pour vendre à des clients sérieux, pas quelqu'un qui essaie juste de se maquiller gratuitement.
+",informal
+Ha mai avuto un attacco epilettico? Non posso credere che qualcuno abbia avuto un attacco epilettico allo spettacolo comico di Ken Jeong!,As-tu déjà eu une crise d'épilepsie ? Je n'arrive pas à croire que quelqu'un ait fait une crise pendant le spectacle comique de Ken Jeong !,"Avez-vous déjà fait un malaise ? C'est incroyable que quelqu'un ait eu un malaise au spectacle de Ken Jeong !
+",informal
+I blue jeans erano la strada da seguire. Non è stato proprio così. Cosa ne pensa dei negozi al dettaglio,"Blue Jeans était la solution. Mais au final, pas tant que cela. Que penses-tu des magasins de détail ?","Blue Jeans était la solution. Mais au final, pas tant que cela. Que pensez-vous des magasins de détail ?
+",informal
+"Ma se Lei, se uno si prende il tempo per guardare, allora sarà come... Oh, okay, sì, nessun problema, ma se Lei non ha guardato allora io posso dirglielo.","Mais si tu, si on prend le temps de regarder, alors ce sera comme... Oh, ok, oui, pas de problème, mais si tu n'as pas regardé alors je peux te le dire.","Mais si vous, si la personne prend le temps de regarder, elle se dira : « Ah, d'accord, oui, pas de problème », mais si vous n'avez pas regardé, je peux vous le dire.
+",informal
+Forse il trucco può davvero trasformarLa in quasi chiunque,Peut-être que le maquillage peut vraiment te transformer en presque n'importe qui.,"Certainement, avec du maquillage, vous pouvez vraiment vous transformer en quelqu'un d'autre.
+",informal
+"Informazioni sul suo Instagram, ne sono sicuro","Informations sur ton Instagram, j'en suis sûr","Informations sur votre Instagram, je suis sûr
+",informal
+"(onestamente prendersi cura dei) miei figli i miei genitori sanno cosa fare. È proprio così che mi hanno cresciuto. Se tu potessi pensare alla cosa migliore, come sei stato allevato dai tuoi genitori e cose del genere.","(Honnêtement, pour prendre soin de) mes enfants, mes parents savent quoi faire. C'est exactement comme ça qu'ils m'ont élevé. Si tu pouvais penser à la meilleure chose, à la façon dont tes parents t'ont élevé et ce genre de choses.","(honnêtement prendre soin de) mes enfants, mes parents savent le faire. C'est ainsi qu'ils m'ont élevé. Si vous pouviez penser au meilleur dans la façon dont vous avez été élevé par vos parents etc.
+",informal
+"Sei interessato ai cani? Sono molto intelligenti. Inoltre, possono imparare più di mille parole e ragionare meglio degli scimpanzé.","Es-tu intéressé par les chiens ? Ils sont très intelligents. De plus, ils peuvent apprendre plus de mille mots et raisonner mieux que les chimpanzés.","Êtes-vous intéressé par les chiens ? Ils sont très intelligents. Les chiens peuvent apprendre plus de mille mots et raisonner mieux que des chimpanzés.
+",informal
+"sul computer mentre chiediamo ai tuoi amici, trattiamo con i tuoi figli o la tua band sai, quindi è un dato di fatto che molti ricevono notizie in questo modo.","sur l'ordinateur alors que nous discutons avec tes amis, que nous nous occupons de tes enfants ou que nous trainons avec ta bande de copains. Tu sais, c'est une réalité. Beaucoup de personnes se tiennent informées de cette façon.","sur l'ordinateur alors que nous discutons avec vos amis, que nous nous occupons de vos enfants ou que nous trainons avec votre bande de copains. Vous savez, c'est une réalité. Beaucoup de personnes se tiennent informées de cette façon.
+",informal
+"Capisco, è per questo che il mio motto è rimanere single e socializzare, così non deve preoccuparsi di ferire i sentimenti altrui né che nessuno ferisca i suoi","Je comprends, c'est pour ça que ma devise est de rester célibataire et de socialiser, comme ça tu n'as pas à t'inquiéter de blesser les sentiments des autres ni que quelqu'un blesse les tiens","Je vois. C'est pourquoi je dis « soyez célibataire et mêlez-vous aux autres ». Ainsi, vous n'avez pas à vous inquiéter de blesser les gens et de vous blesser vous-même
+",informal
+"Esattamente. Fingi di aver bisogno di scappare dal terrore. Ahahah. Allora, ti piace Internet? O è la rovina della tua esistenza?","Exactement. Fais comme si tu avais besoin de fuir la terreur. Ahahah. Alors, tu aimes Internet ? Ou c'est la ruine de ton existence ?","Exactement. Faites semblant de devoir vous éloigner de l'horreur à vélo. LOL Bon, aimez-vous Internet ? Ou est-ce le fléau de votre existence ?
+",informal
+"Ehi, ti piacciono i film Disney?","Hé, aimes-tu les films Disney ?","Bonjour, aimez-vous les films Disney ?
+",informal
+è una cosa così divertente da inserire nel tuo codice di condotta. Sei più una persona da cane che da gatto?,C'est tellement amusant à inclure dans ton code de conduite. Tu es plutôt du genre chien ou chat ?,"c'est tellement drôle d'avoir intégré ça à votre code de conduite. Êtes-vous plutôt une personne à chiens ou à chats ?
+",informal
+"Oh così Lacoste era l'inventore, davvero interessante. Ha sentito del funerale di Bill Mays?","Oh, donc Lacoste était l'inventeur, vraiment intéressant. As-tu entendu parler des funérailles de Bill Mays ?","Donc Lacoste était l'inventeur, c'est très intéressant. Avez-vous entendu parler des funérailles de Bill May ?
+",informal
+"Sì, oppure sul tuo telefono. Quindi roba super funky. Penso sia il modo migliore per descriverlo: funky.","Oui, ou sur ton téléphone. Donc un truc super funky. Je pense que c'est la meilleure façon de le décrire : funky.","Oui. Ou sur votre téléphone. Des trucs super sympa. Je pense que « sympa » est le bon terme.
+",informal
+Solo un viaggetto! Qual è la sua marca di scarpe preferita?,"Juste une petite virée ! Quelle est ta marque de chaussures préférée ?}
+
+La traduction utilise le pronom personnel informel ""ta"" pour s'adresser","Juste un petit voyage ! Quelle est votre marque de chaussures préférée ?
+",informal
+Sai cosa intendo? Tua madre per esempio è una bella signora che non conosco nemmeno.,Tu vois ce que je veux dire ? Ta mère par exemple est une belle dame que je ne connais même pas.,"Vous voyez ce que je veux dire ? Votre mère, par exemple, est une charmante dame, mais je ne saurais dire si elle est une bonne amie.
+",informal
+"Idem. Cerca di rendere perfetta questa giornata, comunque vada.","Pareil. Essaie de rendre cette journée parfaite, quoi qu'il arrive.","Pareil. Essayez de passer une journée parfaite, à votre manière.
+",informal
+"Sì, e nella maggior parte dei posti in cui viaggia può comunque accedere al suo account, dato che è disponibile nei paesi tranne Cina, Siria, Corea del Nord e Crimea.","Oui, et dans la plupart des endroits où tu voyages, tu peux quand même accéder à ton compte, puisqu'il est disponible dans tous les pays sauf la Chine, la Syrie, la Corée du Nord et la Crimée.","Oui et vous pouvez toujours accéder à votre compte dans la plupart des destinations puisqu'il est disponible partout sauf en Chine, en Syrie, en Corée du Nord et en Crimée.
+",informal
+"Oh, ahah! Questo è forte. Quindi forse un criceto è nel tuo futuro eheh. Ho un cane. Il primo gatto clonato si chiamava ""copione” ahah","Oh lol, cool. Peut-être que tu auras un hamster alors. Lol, j'ai un chien. Le premier chat cloné s'appelait copycat lol","Oh lol, cool. Peut-être que vous aurez un hamster alors. Lol, j'ai un chien. Le premier chat cloné s'appelait copycat lol
+",informal
+"ma era strano avere così tanto tempo nel tardo pomeriggio, sai e avere giornate lavorative complete.","mais c'était étrange d'avoir autant de temps en fin d'après-midi, tu sais, et d'avoir des journées de travail complètes.","mais c'était bizarre d'avoir autant de temps en fin d'après-midi, vous savez, tout en ayant vos journées de travail complètes.
+",informal
+"A proposito, la sua finestra è aperta? Può chiuderla? Sì, dà veramente fastidio e speriamo che così sia possibile sentire meglio.","Au fait, ta fenêtre est ouverte ? Tu peux la fermer ? Oui, c'est vraiment gênant et on espère qu'ainsi on pourra mieux entendre.","Au fait, votre fenêtre est-elle ouverte ? Pouvez-vous la fermer ? Oui, c'est vraiment ennuyeux. Et j'espère que cela facilitera la tâche des personnes qui écoutent.
+",informal
+"Ti fa male allo stomaco, ok. Penso che tu sia intollerante al lattosio.","Ça te fait mal à l'estomac, ok. Je pense que t'es intolérant au lactose.","Cela vous fait mal au ventre, d'accord. Je pense que vous êtes intolérant au lactose.
+",informal
+"(Beh, ricordo che) ho una domanda per Lei. Ne ha delle altre? il modo migliore per spiegare è spiegare come funziona la mia città","(Eh bien, je me souviens que) j'ai une question pour toi. En as-tu d'autres ? La meilleure façon d'expliquer est d'expliquer comment fonctionne ma ville.","(Ah oui, je me souviens) J'ai une question pour vous. En aviez-vous plusieurs ? La meilleure façon de faire est d'expliquer comment fonctionne ma ville
+",informal
+"A proposito, la tua finestra è aperta? puoi chiuderla? Sì, dà veramente fastidio e speriamo che così sia possibile sentire meglio.","À propos, ta fenêtre est ouverte ? Tu peux la fermer ? Oui, ça dérange vraiment et on espère qu'on pourra mieux entendre comme ça.","Au fait, votre fenêtre est-elle ouverte ? Pouvez-vous la fermer ? Oui, c'est vraiment ennuyeux. Et j'espère que cela facilitera la tâche des personnes qui écoutent.
+",informal
+"Anche a me non piaceva la serie, amavo Seinfeld e Frasier, non ho mai guardato Friends fino a quando non sono iniziate le repliche. Il mio programma preferito in tv è Criminal Minds, qual è il suo?","Je n'ai pas aimé le spectacle non plus. J'ai adoré Seinfeld et Frasier, et je n'ai jamais regardé Friends avant les rediffusions. Ma série préférée est Criminal Minds, et toi, quelle est la tienne ?","Je n'ai pas aimé le spectacle non plus. J'ai adoré Seinfeld et Frasier, et je n'ai jamais regardé Friends avant les rediffusions. Ma série préférée est Criminal Minds, et vous, quelle est la vôtre ?
+",informal
+"Ah, no, non sono mai stato capace di capire la poesia. È stato bello parlare con Lei, buon proseguimento di giornata!","Ah non, je n'ai jamais été doué pour comprendre la poésie. C'était sympa de discuter avec toi, bonne continuation de journée !","Ah, non, je n'ai jamais réussi à comprendre la poésie. C'était sympa de discuter avec vous, passez une bonne fin de journée !
+",informal
+"Non credo di averli visti. Non seguo molto la serie Marvel. So che Chris Pratt ha un ruolo in una serie televisiva, Parks and Recreation. L'hai vista?","Je ne pense pas les avoir vus. Je ne suis pas trop la série Marvel. Je sais que Chris Pratt a un rôle dans une série télé, Parks and Recreation. L'as-tu vue ?","Je ne crois pas les avoir vus. Je ne suis pas les séries Marvel assidûment. Je sais que Chris Pratt joue un rôle dans une série télévisée, Parcs et Loisirs. L'avez-vous regardée ?
+",informal
+"Sì, quello andrà bene. Che mi dice di Inception: l'ha visto?","Oui, ça ira. Et toi, qu'est-ce que tu penses d'Inception : tu l'as vu ?","Oui, cela ira. Et Inception, vous l'avez vu ?
+",informal
+"Sì, oppure sul suo telefono. Quindi roba super funky. Penso sia il modo migliore per descriverlo: funky.","Ouais, ou sur ton portable. Donc un truc super funky. Je pense que c'est la meilleure façon de le décrire : funky.","Oui. Ou sur votre téléphone. Des trucs super sympa. Je pense que « sympa » est le bon terme.
+",informal
+"Sì, è un look stupido, nessuno vuole vedere i tuoi cassetti. Buona notte!","Ouais, c'est une tenue ridicule, personne n'a envie de voir ton caleçon. Bonne nuit !}
+
+La phrase traduite est formulée de manière informelle avec","Oui, ce style est absurde. Personne n'a envie de voir votre caleçon. Bonne nuit !
+",informal
+"La salute di suo padre è generalmente piuttosto buona, è la sua mente che soffre, oppure ha, se ha l'Alzheimer, so che questo influisce anche su di te in altri modi,","La santé de ton père est généralement plutôt bonne, c'est son esprit qui souffre, ou s'il a la maladie d'Alzheimer, je sais que cela t'affecte aussi d'autres façons,","La santé de son père est assez bonne, c'est son esprit qui souffre. S'il a la maladie d'Alzheimer, je sais que cela affecte votre corps aussi de différentes manières,
+",informal
+"cosa? Mi dica com'è la vita. E a lui ho detto, ascolti, non funzionerà. E ho detto, mi faccia il favore. Non torni al suo","Quoi ? Il m'a dit comment était la vie. Et je lui ai dit, écoute, ça ne marchera pas. Et j'ai dit, fais-moi cette faveur. Ne retourne pas avec lui.}
+
+Dans cette traduction informelle, on utilise le tutoiement avec ""tu"", ""m'a dit"", ","comme quoi ? Dites-moi à quoi ressemble la vie. Et je lui ai dit, écoutez, ça ne marchera pas. Et j'ai dit, faites-moi une faveur. Ne retournez pas dans votre
+",informal
+"Mi piace il baseball, ma non ho una squadra preferita. E Lei?","J'aime le baseball, mais je n'ai pas d'équipe préférée. Et toi ?","J'aime le baseball, mais je n'ai pas vraiment d'équipe préférée. Et vous ?
+",informal
+"Già che ti piacciono i film, qual è il tuo preferito?","Puisque t'aimes les films, c'est quoi ton préféré ?","Vous regardez des films. Lequel est votre préféré ?
+",informal
+"L'ho visto prima. A proposito del telefono, l'Unicef donerà un giorno di acqua pulita a un bambino bisognoso per ogni minuto che Lei non usa il suo cellulare. Bella iniziativa.","Je l'ai vu avant. Au fait pour le téléphone, l'Unicef donnera une journée d'eau potable à un enfant dans le besoin pour chaque minute où tu n'utilises pas ton portable. Belle initiative.","Je l'avais déjà vu. À propos de téléphone, Unicef va offrir une journée d'eau potable à un enfant dans le besoin pour chaque minute que vous passez sans votre téléphone portable. Bonne initiative.
+",informal
+"Comunque, scusi se non ho visto la sua domanda sul pesce. Ho provato a tenere pesci rossi come animali domestici diverse volte nel corso degli anni. Ho avuto anche un serpente da compagnia, una volta. Quanto era grande il suo pitone?","Désolé, je n'ai pas vu ta question sur les poissons. J'ai essayé d'avoir des poissons rouges comme animaux de compagnie plusieurs fois au fil des années. J'ai aussi eu un serpent comme animal de compagnie, une fois. Quelle était la taille de ton python ?","Désolé, je n'ai pas vu votre question à propos du poisson. J'ai essayé plusieurs fois de m'occuper de poissons rouges. J'ai eu un serpent des blés, un jour. Quelle est la taille de votre python ?
+",informal
+"wow, sarebbe una rovina per la sua squadra! Era uno Yankee all'epoca o un Red Sox, non ricordo?","Wow, ce serait une ruine pour ton équipe ! Il était chez les Yankees ou les Red Sox à l'époque, je ne me souviens plus ?","Waouh, c'est tellement dur pour votre équipe ! Est-ce qu'il faisait partie des Yankees à l'époque ou des Red Sox ? Je ne me rappelle pas
+",informal
+"Non credo. Sono indipendenti. Se sentono il bisogno di arrampicarsi sul suo braccio, lo faranno; e a differenza dei cani, si lamenteranno di conseguenza.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de te grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.","Je ne pense pas. Elles sont indépendantes. Si l'envie leur prend de vous grimper sur le bras, elles le feront et leur crier dessus ne servira pas à grand-chose, ce ne sont pas des chiens.
+",informal
+"Quando ce l'ha, quando ha un figlio di cui è responsabile, deve organizzarsi.","Quand tu en as un, quand tu as un enfant dont tu es responsable, tu dois t'organiser.","Quand vous le faites, quand vous avez un enfant à charge, vous devez vous y préparer.
+",informal
+"Mi chiedo se quella persona si presenta anche a votare, o perché è nella giungla in quel modo ahah. Ha votato alle ultime elezioni?","Je me demande si cette personne va aussi voter, ou pourquoi elle est dans la jungle comme ça ahah. Tu as voté aux dernières élections ?","Je me demande si cette personne prend même la peine d'aller voter ou pourquoi il est dans la course, ah ah. Vous avez voté aux dernières élections ?
+",informal
+"Ne sono al corrente. Ehi, cosa ne pensi di Morgan Freeman? Ho saputo solo poco tempo fa che aveva lavorato nella compagnia elettrica negli anni '70!","J'en suis au courant. Hé, que penses-tu de Morgan Freeman ? Je viens juste d'apprendre qu'il a travaillé dans une compagnie d'électricité dans les années 70 !","C'est ce que j'ai entendu aussi. Que  pensez-vous  de Morgan Freeman ? J'ai découvert récemment qu'il a joué dans The Electric Company dans les années 1970 !
+",informal
+"Proprio il contrario: FB promette un'eternità di gelosia e odio per se stessi perché Becky e Donna, i tuoi ""amici"" di FB, hanno foto delle vacanze migliori delle tue","Au contraire : FB promet une éternité de jalousie et de haine envers soi-même parce que Becky et Donna, tes ""amies"" sur FB, ont de meilleures photos de vacances que les tiennes","C'est tout le contraire. Facebook promet une éternité de jalousie et de haine de soi car Becky et Donna, vos « amies » FB ont de meilleures photos de vacances que vous
+",informal
+"devi insegnare loro valori come provare cose diverse, capisci cosa intendo?","Tu dois leur apprendre des valeurs comme essayer de nouvelles choses, tu vois ce que je veux dire ?","vous devez leur enseigner des valeurs comme essayer et persévérer, vous voyez ce que je veux dire ?
+",informal
+"Seipreoccupato che in futuro, quando avrai i dispositivi intelligenti, i tuoi possano dire: Oh! Mi piacerebbe ordinare un qualcosa da Amazon e poi, ehi così e così","T'es inquiet qu'à l'avenir, tes enfants puissent dire ""Oh ! J'aimerais commander un truc sur Amazon, et puis ça et ça..."" sur tes appareils connectés ?","Êtes-vous préoccupé à l'idée qu'à l'avenir, vos enfants puissent dire « Oh ! J'adorerais commander une couverture sur Amazon, et puis ça et ça... » sur vos appareils connectés ?
+",informal
+Il Sole sta bloccando il tuo segnale internet stasera?,Le Soleil bloque-t-il ton signal internet ce soir ?,"C'est le soleil qui bloque votre signal Internet ce soir ?
+",informal
+"soprattutto perché immagino che, a differenza della tua famiglia, nel suo caso nessuno di noi segue davvero la stessa strada per così dire.","Surtout parce que j'imagine que, contrairement à ta famille, dans son cas, aucun d'entre nous ne suit vraiment la même voie, pour ainsi dire.","d'autant plus que je suppose que, contrairement à votre famille, dans son cas, aucun de nous ne suit vraiment le chemin pour ainsi dire.
+",informal
+"Eh sì,esattamente. Ok, ora dia anche un'occhiata ai miei negozi di moda dove fa acquisti?","Eh oui, exactement. Ok, maintenant jette aussi un coup d'œil aux boutiques de mode où tu fais tes achats ?","Oui, exactement. Bon, maintenant jetez aussi un œil à mes boutiques de mode. Où faites-vous vos achats ?
+",informal

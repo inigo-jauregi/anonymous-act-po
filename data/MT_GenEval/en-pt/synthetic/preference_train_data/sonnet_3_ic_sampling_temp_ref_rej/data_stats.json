@@ -1,0 +1,12 @@
+{
+    "preferred": {
+        "feminine": 1840,
+        "masculine": 1797,
+        "unknown": 0
+    },
+    "rejected": {
+        "feminine": 1910,
+        "masculine": 1882,
+        "unknown": 0
+    }
+}

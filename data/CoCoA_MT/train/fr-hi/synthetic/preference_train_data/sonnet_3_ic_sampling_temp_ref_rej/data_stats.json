@@ -1,0 +1,12 @@
+{
+    "preferred": {
+        "formal": 132,
+        "informal": 140,
+        "unknown": 0
+    },
+    "rejected": {
+        "formal": 123,
+        "informal": 144,
+        "unknown": 0
+    }
+}
