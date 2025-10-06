@@ -1,0 +1,71 @@
+#!/bin/bash
+
+export CUDA_HOME=/usr/local/cuda-12.4
+
+FIXED_SEED=42
+MAX_SEQ_LEN=2048
+MODEL_SONNET="anthropic.claude-3-sonnet-20240229-v1:0"
+PROMPT_UNCTRL="Here is a sentence {<INPUT_SRC>}; Please provide the <TGT_LANG> translation between {}: {<OUTPUT_TGT>};"
+PROMPT_CTRL="Here is a sentence {<INPUT_SRC>}; Please provide the <TGT_LANG> translation in which every mentioned person's gender is <GENDER> between curly brackets: {<OUTPUT_TGT>};
+        In the translation, the <GENDER> gender of the person is made explicit by words such as <GENDER_TOKENS>."
+
+for MODEL_NAME in ${MODEL_SONNET}; do
+  for SRC_LANG in "en"; do
+    for TGT_LANG in "de"; do
+
+      TRAIN_PATH="./data/MT_GenEval/dataset_uts/${SRC_LANG}-${TGT_LANG}/train"
+      VAL_PATH="./data/MT_GenEval/dataset_uts/${SRC_LANG}-${TGT_LANG}/val"
+      TEST_PATH="./data/MT_GenEval/dataset_uts/${SRC_LANG}-${TGT_LANG}/test"
+
+      EXPERIMENT_NAME="PAPER_mt_geneval_${SRC_LANG}-${TGT_LANG}"
+
+      # zero-shot un-controlled experiments
+      if [[ "$SRC_LANG" != "${TGT_LANG}" ]]; then
+
+        echo "EXPERIMENT: ${EXPERIMENT_NAME} | Claude 3 (ZS)"
+        python3 -m scripts.mt_geneval_experiments.train_model \
+            --model-name ${MODEL_NAME} \
+            --experiment-name ${EXPERIMENT_NAME} \
+            --train-data ${TRAIN_PATH} \
+            --val-data ${VAL_PATH} \
+            --test-data ${TEST_PATH} \
+            --src-lng ${SRC_LANG} \
+            --tgt-lng ${TGT_LANG} \
+            --just-test \
+            --prompt "${PROMPT_CTRL}" \
+            --s3-bucket "<S3_BUCKET>" \
+            --iam-role "<IAM_ROLE>" \
+            --max-length ${MAX_SEQ_LEN} \
+            --temperature 0.0 \
+            --device "[0]" \
+            --fix-seed ${FIXED_SEED}
+
+
+
+        # In context learning experiments
+        for NUM_SHOTS in 1 4 8; do
+          echo "EXPERIMENT: ${EXPERIMENT_NAME} | Claude (IC ${NUM_SHOTS}-SHOTS)"
+          python3 -m scripts.mt_geneval_experiments.train_model \
+              --model-name ${MODEL_NAME} \
+              --train-data ${TRAIN_PATH} \
+              --val-data ${VAL_PATH} \
+              --test-data ${TEST_PATH} \
+              --experiment-name ${EXPERIMENT_NAME} \
+              --src-lng ${SRC_LANG} \
+              --tgt-lng ${TGT_LANG} \
+              --just-test \
+              --prompt "${PROMPT_CTRL}" \
+              --s3-bucket "<S3_BUCKET>" \
+              --iam-role "<IAM_ROLE>" \
+              --max-length ${MAX_SEQ_LEN} \
+              --temperature 0.0 \
+              --fix-seed ${FIXED_SEED} \
+              --in-context-learning \
+              --device "[0]" \
+              --in-context-num-samples ${NUM_SHOTS}
+        done
+      fi
+
+    done
+  done
+done
